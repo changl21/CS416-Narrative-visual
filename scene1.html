@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <title>Data Narrative visualization</title>
+    <script src="js/chart.js"></script>
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Pacifico&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div id="content">
+        <p class="large-bold">Introduction:</p>
+        <p class="small-normal">In the modern world, understanding the dynamic relationship between working hours, economic performance, and productivity is crucial for policymakers, businesses, and researchers. The relationship between working hours and economic output can provide insights into how countries can optimize labor policies to enhance individual well-being and national economic health. This analysis aims to explore these relationships through three key visualizations:</p>
+        <ol class="small-normal">
+            <li>Scatter Plot: Working Hours vs. GDP per Capita</li>
+            <li>Scatter Plot: Productivity vs. Working Hours</li>
+            <li>Line Chart: Trends in Labor Productivity per Hour (1950-2019)</li>
+        </ol>
+        <p class="small-normal">By analyzing these charts, we can gain a deeper understanding of how different working hours impact GDP per capita and productivity, and how these factors have evolved over time. We will also provide explanations for certain phenomena and explore possible reasons, such as economic structures, labor laws, and cultural differences. These insights not only help to reveal the current state of global labor dynamics but also provide valuable guidance for shaping future economic and labor policies.</p>
+        <p class="large-bold">Working Hours And GDP per Capita:</p>
+        <p class="small-normal">Below is a scatter plot depicting the relationship between average annual working hours (x-axis, in hours) and average GDP per capita (y-axis, in dollars per year) from 1970 to 2019. Each bubble represents a different country, with its size proportional to the total population and its color indicating the continent, as shown in the top right coner</p>
+        <p class ="red-text">Note: If you want to know detailed information of each country, try to hang over on the point. Also,You can drag the slider below to adjust for different years </p>
+        
+        <div id="scatterplot-1"></div>
+        <div class="slider-container">
+            <input type="range" min="1970" max="2019" value="1970" class="slider" id="yearSlider">
+            <p class="slider-label">Year: <span id="yearLabel">1970</span></p>
+        </div>
+        <p class="small-normal">Through this scatter plot (Scatter Plot: Working Hours vs. GDP per Capita), we can derive the following key insights:</p>
+
+        <p class="small-normal">
+            1. <strong>Countries with High GDP and Low Working Hours</strong>: For example, Ireland has a very high GDP (around $102,622.45) but relatively low average annual working hours (about 1,771.98 hours). This suggests that these countries might have efficient economic structures and high labor productivity, enabling employees to generate more economic value with fewer working hours. This trend has been consistent in Europe from 1970 to 2019, where many countries maintain high GDP and low working hours.<br><br>
+            2. <strong>Countries with Low GDP and High Working Hours</strong>: Malaysia shows a relatively lower GDP (around $25,735.31) but longer working hours (about 2,197.06 hours). These countries might have lower labor productivity, or their economic structures might rely on low value-added labor-intensive industries. This pattern is commonly observed in many Asian countries from 1970 to 2019, where the GDP per capita remains lower, and the working hours are generally higher.<br><br>
+            3. <strong>Distribution Across Other Regions</strong>:The size of the dots represents the population size of each country, and the color indicates the continent. By observing other points in the chart, we can find that some countries in Europe and North America are concentrated in the upper left (high GDP, low working hours), while some countries in Asia and Africa are more concentrated in the lower right (low GDP, high working hours). Over the decades, this distribution has largely remained the same, reflecting long-standing economic disparities and labor practices.<br><br>
+                </p>
+                <p class="small-normal">Regions such as Europe and North America cluster in the high GDP, low working hours section of the chart, while countries in Asia and Africa are more concentrated in the low GDP, high working hours section. This reflects the disparities in economic development levels, policies, and institutional frameworks between different regions. Over the nearly 50 years from 1970 to 2019, this structural pattern has remained largely unchanged. Europe and North America enjoy advanced economic development, superior technology, and infrastructure, resulting in high labor productivity. These regions benefit from efficient production processes, high levels of automation, and a highly skilled workforce. Additionally, favorable labor policies and robust social welfare systems contribute to shorter working hours and higher economic output.
+
+                </p><p class="small-normal">In contrast, many Asian and African countries depend on labor-intensive industries with lower productivity. These regions often have less advanced technology, lower levels of automation, and a less skilled workforce, leading to longer working hours and lower GDP per capita. Differences in labor policies, such as limited worker protections and social welfare systems, further exacerbate these disparities. For example, while Europe has implemented numerous policies aimed at reducing working hours and improving work-life balance, many Asian countries have not made similar strides, resulting in longer working hours and lower labor productivity.<p/><p class="small-normal">Overall
+                    
+                    , the scatter plot reveals a negative correlation between GDP and working hours, indicating that countries with longer working hours tend to have lower GDP per capita, whereas those with shorter working hours usually have higher GDP per capita. This pattern underscores the disparities in labor productivity and economic structures, as well as the uneven development levels among countries. High-income countries achieve greater economic growth and social welfare through improved labor productivity and optimized economic structures. Investing in education and workforce training, coupled with advancements in technology and automation, are key factors driving higher productivity in these regions.
+                    
+                </p><p class="small-normal">Notably, Hong Kong has shown significant fluctuations over the decades. Its GDP and working hours have varied considerably, suggesting an unstable economic structure and labor market. These fluctuations can be attributed to several factors, including the political transition from British to Chinese sovereignty in 1997, which brought about significant economic and social changes. Additionally, Hong Kong's open economy, reliance on global trade, and exposure to international market dynamics have contributed to its economic volatility. Factors such as shifts in global demand, financial crises, and changes in trade policies have also played a role in influencing Hong Kong's economic performance and labor market conditions.
+                    
+                </p><p class="small-normal">These insights are crucial for policymakers. They can leverage this data to evaluate and adjust labor policies, such as enhancing labor productivity, optimizing working hours, and improving workforce skills through education and training. Furthermore, investing in advanced technologies and automation to reduce reliance on low-skilled labor is essential for boosting productivity. By improving labor productivity, optimizing economic structures, and reforming labor policies, countries can achieve higher economic growth and social welfare.
+                    
+                    These analyses help us better understand the dynamic relationship between global labor and economic performance, providing data support and reference for future economic and labor policies. Understanding these long-term trends and the factors driving them can inform the development of policies aimed at reducing economic disparities and promoting more equitable growth globally.</p>
+                    
+                    
+                    
+                    
+                    
+                    
+                    </p>
+            <a href="title.html"><button class="cool-button">Previous Page: Home</button></a>
+            <a href="scene2.html"><button class="cool-button">Next Page:Productivity vs. Working Hours</button></a>
+        </div>
+    </div>
+    
+    
+    <script>
+        document.addEventListener("DOMContentLoaded", function() {
+            renderFirstChartstatic(1970);
+            const slider = document.getElementById('yearSlider');
+            const yearLabel = document.getElementById('yearLabel');
+
+            slider.addEventListener('input', function() {
+                const year = +this.value;
+                yearLabel.textContent = year;
+                renderFirstChartstatic(year);
+            });
+        });
+    </script>
+</body>
+</html>
+

@@ -1,1 +1,1 @@
-# CS416-Narrative-visual
+# CS416:Data Visualization final project

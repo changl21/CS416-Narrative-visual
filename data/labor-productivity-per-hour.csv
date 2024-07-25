@@ -1,0 +1,3596 @@
+code,entity,year,productivity,continent
+ARG,Argentina,1950,3.7276742,South America
+ARG,Argentina,1951,3.7526677,South America
+ARG,Argentina,1952,3.3652332,South America
+ARG,Argentina,1953,3.522695,South America
+ARG,Argentina,1954,3.6234164,South America
+ARG,Argentina,1955,3.820403,South America
+ARG,Argentina,1956,3.8615587,South America
+ARG,Argentina,1957,4.0018334,South America
+ARG,Argentina,1958,4.240541,South America
+ARG,Argentina,1959,3.93428,South America
+ARG,Argentina,1960,4.165085,South America
+ARG,Argentina,1961,4.2599936,South America
+ARG,Argentina,1962,4.298306,South America
+ARG,Argentina,1963,4.1109223,South America
+ARG,Argentina,1964,4.2761,South America
+ARG,Argentina,1965,4.7605305,South America
+ARG,Argentina,1966,4.821608,South America
+ARG,Argentina,1967,4.940946,South America
+ARG,Argentina,1968,5.0403686,South America
+ARG,Argentina,1969,5.4847455,South America
+ARG,Argentina,1970,5.5949955,South America
+ARG,Argentina,1971,5.7174125,South America
+ARG,Argentina,1972,5.7707987,South America
+ARG,Argentina,1973,6.049992,South America
+ARG,Argentina,1974,6.12354,South America
+ARG,Argentina,1975,6.015602,South America
+ARG,Argentina,1976,6.0292716,South America
+ARG,Argentina,1977,6.2771564,South America
+ARG,Argentina,1978,6.141138,South America
+ARG,Argentina,1979,6.4327383,South America
+ARG,Argentina,1980,6.4590163,South America
+ARG,Argentina,1981,6.54121,South America
+ARG,Argentina,1982,6.8030505,South America
+ARG,Argentina,1983,7.2011805,South America
+ARG,Argentina,1984,7.5501113,South America
+ARG,Argentina,1985,7.3695316,South America
+ARG,Argentina,1986,8.01871,South America
+ARG,Argentina,1987,8.416937,South America
+ARG,Argentina,1988,8.84262,South America
+ARG,Argentina,1989,8.496987,South America
+ARG,Argentina,1990,9.34559,South America
+ARG,Argentina,1991,10.72936,South America
+ARG,Argentina,1992,12.5184765,South America
+ARG,Argentina,1993,14.229115,South America
+ARG,Argentina,1994,16.264364,South America
+ARG,Argentina,1995,19.057482,South America
+ARG,Argentina,1996,23.936634,South America
+ARG,Argentina,1997,23.406992,South America
+ARG,Argentina,1998,22.246105,South America
+ARG,Argentina,1999,20.943682,South America
+ARG,Argentina,2000,20.869158,South America
+ARG,Argentina,2001,20.300793,South America
+ARG,Argentina,2002,18.544622,South America
+ARG,Argentina,2003,19.140049,South America
+ARG,Argentina,2004,19.305756,South America
+ARG,Argentina,2005,19.672619,South America
+ARG,Argentina,2006,20.713331,South America
+ARG,Argentina,2007,21.948978,South America
+ARG,Argentina,2008,23.103422,South America
+ARG,Argentina,2009,22.24469,South America
+ARG,Argentina,2010,24.664722,South America
+ARG,Argentina,2011,27.121876,South America
+ARG,Argentina,2012,27.660812,South America
+ARG,Argentina,2013,27.395718,South America
+ARG,Argentina,2014,26.616257,South America
+ARG,Argentina,2015,26.997778,South America
+ARG,Argentina,2016,27.98419,South America
+ARG,Argentina,2017,30.95546,South America
+ARG,Argentina,2018,30.952593,South America
+ARG,Argentina,2019,29.42588,South America
+AUS,Australia,1950,15.326854,Oceania
+AUS,Australia,1951,14.583223,Oceania
+AUS,Australia,1952,14.244756,Oceania
+AUS,Australia,1953,15.922848,Oceania
+AUS,Australia,1954,16.903465,Oceania
+AUS,Australia,1955,17.536858,Oceania
+AUS,Australia,1956,17.582268,Oceania
+AUS,Australia,1957,17.63839,Oceania
+AUS,Australia,1958,19.052452,Oceania
+AUS,Australia,1959,20.235952,Oceania
+AUS,Australia,1960,20.1224,Oceania
+AUS,Australia,1961,20.69601,Oceania
+AUS,Australia,1962,21.355865,Oceania
+AUS,Australia,1963,22.279251,Oceania
+AUS,Australia,1964,22.616526,Oceania
+AUS,Australia,1965,22.28722,Oceania
+AUS,Australia,1966,23.039864,Oceania
+AUS,Australia,1967,23.400547,Oceania
+AUS,Australia,1968,24.619623,Oceania
+AUS,Australia,1969,25.82899,Oceania
+AUS,Australia,1970,25.910576,Oceania
+AUS,Australia,1971,26.630285,Oceania
+AUS,Australia,1972,27.428501,Oceania
+AUS,Australia,1973,28.128069,Oceania
+AUS,Australia,1974,26.41765,Oceania
+AUS,Australia,1975,27.250248,Oceania
+AUS,Australia,1976,27.906076,Oceania
+AUS,Australia,1977,28.141,Oceania
+AUS,Australia,1978,29.353878,Oceania
+AUS,Australia,1979,29.825207,Oceania
+AUS,Australia,1980,30.047503,Oceania
+AUS,Australia,1981,31.262638,Oceania
+AUS,Australia,1982,31.00233,Oceania
+AUS,Australia,1983,33.59127,Oceania
+AUS,Australia,1984,33.348927,Oceania
+AUS,Australia,1985,33.28966,Oceania
+AUS,Australia,1986,32.70697,Oceania
+AUS,Australia,1987,34.633392,Oceania
+AUS,Australia,1988,35.419254,Oceania
+AUS,Australia,1989,34.992744,Oceania
+AUS,Australia,1990,34.717422,Oceania
+AUS,Australia,1991,35.753605,Oceania
+AUS,Australia,1992,37.43999,Oceania
+AUS,Australia,1993,38.279926,Oceania
+AUS,Australia,1994,38.63741,Oceania
+AUS,Australia,1995,39.189438,Oceania
+AUS,Australia,1996,41.00176,Oceania
+AUS,Australia,1997,42.7722,Oceania
+AUS,Australia,1998,43.82873,Oceania
+AUS,Australia,1999,45.23416,Oceania
+AUS,Australia,2000,45.415455,Oceania
+AUS,Australia,2001,47.16524,Oceania
+AUS,Australia,2002,47.55953,Oceania
+AUS,Australia,2003,48.647198,Oceania
+AUS,Australia,2004,49.612198,Oceania
+AUS,Australia,2005,51.532955,Oceania
+AUS,Australia,2006,51.622116,Oceania
+AUS,Australia,2007,51.45444,Oceania
+AUS,Australia,2008,52.85944,Oceania
+AUS,Australia,2009,53.129284,Oceania
+AUS,Australia,2010,56.738533,Oceania
+AUS,Australia,2011,58.76907,Oceania
+AUS,Australia,2012,58.172035,Oceania
+AUS,Australia,2013,60.47338,Oceania
+AUS,Australia,2014,60.122875,Oceania
+AUS,Australia,2015,56.053726,Oceania
+AUS,Australia,2016,59.619713,Oceania
+AUS,Australia,2017,60.34168,Oceania
+AUS,Australia,2018,61.878532,Oceania
+AUS,Australia,2019,61.438488,Oceania
+AUT,Austria,1950,6.7967925,Europe
+AUT,Austria,1951,7.0160127,Europe
+AUT,Austria,1952,7.386129,Europe
+AUT,Austria,1953,7.873534,Europe
+AUT,Austria,1954,8.202217,Europe
+AUT,Austria,1955,8.572045,Europe
+AUT,Austria,1956,8.942056,Europe
+AUT,Austria,1957,9.213891,Europe
+AUT,Austria,1958,9.5254965,Europe
+AUT,Austria,1959,9.716994,Europe
+AUT,Austria,1960,10.225922,Europe
+AUT,Austria,1961,10.795698,Europe
+AUT,Austria,1962,11.221848,Europe
+AUT,Austria,1963,11.838527,Europe
+AUT,Austria,1964,12.501663,Europe
+AUT,Austria,1965,13.064591,Europe
+AUT,Austria,1966,13.925265,Europe
+AUT,Austria,1967,14.681521,Europe
+AUT,Austria,1968,15.617279,Europe
+AUT,Austria,1969,16.530752,Europe
+AUT,Austria,1970,18.078392,Europe
+AUT,Austria,1971,18.890709,Europe
+AUT,Austria,1972,19.690424,Europe
+AUT,Austria,1973,20.484371,Europe
+AUT,Austria,1974,20.085234,Europe
+AUT,Austria,1975,21.07803,Europe
+AUT,Austria,1976,21.563398,Europe
+AUT,Austria,1977,22.143019,Europe
+AUT,Austria,1978,22.688196,Europe
+AUT,Austria,1979,23.097084,Europe
+AUT,Austria,1980,23.132545,Europe
+AUT,Austria,1981,24.011904,Europe
+AUT,Austria,1982,24.280458,Europe
+AUT,Austria,1983,24.949306,Europe
+AUT,Austria,1984,24.873604,Europe
+AUT,Austria,1985,25.388908,Europe
+AUT,Austria,1986,26.524275,Europe
+AUT,Austria,1987,27.812836,Europe
+AUT,Austria,1988,29.295618,Europe
+AUT,Austria,1989,30.260357,Europe
+AUT,Austria,1990,31.620522,Europe
+AUT,Austria,1991,32.5917,Europe
+AUT,Austria,1992,34.509747,Europe
+AUT,Austria,1993,35.524967,Europe
+AUT,Austria,1994,37.20332,Europe
+AUT,Austria,1995,39.36852,Europe
+AUT,Austria,1996,39.323376,Europe
+AUT,Austria,1997,40.81398,Europe
+AUT,Austria,1998,42.53225,Europe
+AUT,Austria,1999,43.386806,Europe
+AUT,Austria,2000,45.390182,Europe
+AUT,Austria,2001,44.377754,Europe
+AUT,Austria,2002,45.44068,Europe
+AUT,Austria,2003,46.49087,Europe
+AUT,Austria,2004,48.04215,Europe
+AUT,Austria,2005,52.797462,Europe
+AUT,Austria,2006,53.47992,Europe
+AUT,Austria,2007,54.648876,Europe
+AUT,Austria,2008,55.810387,Europe
+AUT,Austria,2009,54.958294,Europe
+AUT,Austria,2010,56.444805,Europe
+AUT,Austria,2011,57.740795,Europe
+AUT,Austria,2012,58.960068,Europe
+AUT,Austria,2013,58.534805,Europe
+AUT,Austria,2014,61.13571,Europe
+AUT,Austria,2015,62.702095,Europe
+AUT,Austria,2016,62.37842,Europe
+AUT,Austria,2017,64.780174,Europe
+AUT,Austria,2018,65.06293,Europe
+AUT,Austria,2019,65.15168,Europe
+BGD,Bangladesh,1970,1.9758757,Asia
+BGD,Bangladesh,1971,1.9720889,Asia
+BGD,Bangladesh,1972,1.9011652,Asia
+BGD,Bangladesh,1973,1.6317824,Asia
+BGD,Bangladesh,1974,1.6356674,Asia
+BGD,Bangladesh,1975,1.5350242,Asia
+BGD,Bangladesh,1976,1.687655,Asia
+BGD,Bangladesh,1977,1.7574726,Asia
+BGD,Bangladesh,1978,1.7549671,Asia
+BGD,Bangladesh,1979,1.8085406,Asia
+BGD,Bangladesh,1980,1.7507269,Asia
+BGD,Bangladesh,1981,1.7374474,Asia
+BGD,Bangladesh,1982,1.6815083,Asia
+BGD,Bangladesh,1983,1.6633503,Asia
+BGD,Bangladesh,1984,1.7687905,Asia
+BGD,Bangladesh,1985,1.8202491,Asia
+BGD,Bangladesh,1986,1.8362675,Asia
+BGD,Bangladesh,1987,1.8129264,Asia
+BGD,Bangladesh,1988,1.8591352,Asia
+BGD,Bangladesh,1989,2.0305157,Asia
+BGD,Bangladesh,1990,2.0360405,Asia
+BGD,Bangladesh,1991,2.0363715,Asia
+BGD,Bangladesh,1992,2.0315714,Asia
+BGD,Bangladesh,1993,2.0196857,Asia
+BGD,Bangladesh,1994,2.047829,Asia
+BGD,Bangladesh,1995,2.0752869,Asia
+BGD,Bangladesh,1996,2.0698934,Asia
+BGD,Bangladesh,1997,2.005104,Asia
+BGD,Bangladesh,1998,1.9297974,Asia
+BGD,Bangladesh,1999,1.8166075,Asia
+BGD,Bangladesh,2000,1.8243959,Asia
+BGD,Bangladesh,2001,1.8358469,Asia
+BGD,Bangladesh,2002,1.8910693,Asia
+BGD,Bangladesh,2003,1.9046307,Asia
+BGD,Bangladesh,2004,1.9024031,Asia
+BGD,Bangladesh,2005,1.9349834,Asia
+BGD,Bangladesh,2006,2.0549672,Asia
+BGD,Bangladesh,2007,2.224288,Asia
+BGD,Bangladesh,2008,2.424032,Asia
+BGD,Bangladesh,2009,2.5682456,Asia
+BGD,Bangladesh,2010,2.787817,Asia
+BGD,Bangladesh,2011,3.2355232,Asia
+BGD,Bangladesh,2012,3.3843846,Asia
+BGD,Bangladesh,2013,3.6154296,Asia
+BGD,Bangladesh,2014,3.7923138,Asia
+BGD,Bangladesh,2015,4.0340605,Asia
+BGD,Bangladesh,2016,4.1130853,Asia
+BGD,Bangladesh,2017,4.3076367,Asia
+BGD,Bangladesh,2018,4.59153,Asia
+BGD,Bangladesh,2019,4.791032,Asia
+BEL,Belgium,1950,9.94314,Europe
+BEL,Belgium,1951,10.412888,Europe
+BEL,Belgium,1952,10.693442,Europe
+BEL,Belgium,1953,11.086224,Europe
+BEL,Belgium,1954,11.657062,Europe
+BEL,Belgium,1955,12.236811,Europe
+BEL,Belgium,1956,12.642281,Europe
+BEL,Belgium,1957,12.831566,Europe
+BEL,Belgium,1958,12.87857,Europe
+BEL,Belgium,1959,13.44223,Europe
+BEL,Belgium,1960,13.883655,Europe
+BEL,Belgium,1961,14.612758,Europe
+BEL,Belgium,1962,15.258905,Europe
+BEL,Belgium,1963,15.8409395,Europe
+BEL,Belgium,1964,16.788185,Europe
+BEL,Belgium,1965,17.418419,Europe
+BEL,Belgium,1966,17.935627,Europe
+BEL,Belgium,1967,18.814426,Europe
+BEL,Belgium,1968,19.754189,Europe
+BEL,Belgium,1969,20.743181,Europe
+BEL,Belgium,1970,22.066738,Europe
+BEL,Belgium,1971,22.896698,Europe
+BEL,Belgium,1972,24.705898,Europe
+BEL,Belgium,1973,26.589188,Europe
+BEL,Belgium,1974,27.868486,Europe
+BEL,Belgium,1975,28.191437,Europe
+BEL,Belgium,1976,30.153198,Europe
+BEL,Belgium,1977,31.17045,Europe
+BEL,Belgium,1978,32.67755,Europe
+BEL,Belgium,1979,33.714867,Europe
+BEL,Belgium,1980,36.538177,Europe
+BEL,Belgium,1981,35.961025,Europe
+BEL,Belgium,1982,35.55492,Europe
+BEL,Belgium,1983,34.816666,Europe
+BEL,Belgium,1984,34.224102,Europe
+BEL,Belgium,1985,32.248432,Europe
+BEL,Belgium,1986,34.75912,Europe
+BEL,Belgium,1987,36.761803,Europe
+BEL,Belgium,1988,39.16166,Europe
+BEL,Belgium,1989,39.83133,Europe
+BEL,Belgium,1990,40.869923,Europe
+BEL,Belgium,1991,42.31519,Europe
+BEL,Belgium,1992,44.594162,Europe
+BEL,Belgium,1993,46.442467,Europe
+BEL,Belgium,1994,47.816906,Europe
+BEL,Belgium,1995,48.26082,Europe
+BEL,Belgium,1996,48.773266,Europe
+BEL,Belgium,1997,50.29988,Europe
+BEL,Belgium,1998,49.44472,Europe
+BEL,Belgium,1999,51.10491,Europe
+BEL,Belgium,2000,52.970646,Europe
+BEL,Belgium,2001,52.792484,Europe
+BEL,Belgium,2002,53.71766,Europe
+BEL,Belgium,2003,55.915703,Europe
+BEL,Belgium,2004,57.090435,Europe
+BEL,Belgium,2005,63.273796,Europe
+BEL,Belgium,2006,60.26023,Europe
+BEL,Belgium,2007,61.016037,Europe
+BEL,Belgium,2008,65.654396,Europe
+BEL,Belgium,2009,64.385025,Europe
+BEL,Belgium,2010,69.09867,Europe
+BEL,Belgium,2011,67.528786,Europe
+BEL,Belgium,2012,67.90891,Europe
+BEL,Belgium,2013,67.90904,Europe
+BEL,Belgium,2014,68.081566,Europe
+BEL,Belgium,2015,66.488235,Europe
+BEL,Belgium,2016,66.85479,Europe
+BEL,Belgium,2017,68.51652,Europe
+BEL,Belgium,2018,66.245094,Europe
+BEL,Belgium,2019,66.26524,Europe
+BRA,Brazil,1950,2.5495155,South America
+BRA,Brazil,1951,2.5436735,South America
+BRA,Brazil,1952,2.7247734,South America
+BRA,Brazil,1953,2.726391,South America
+BRA,Brazil,1954,2.8643858,South America
+BRA,Brazil,1955,2.9838479,South America
+BRA,Brazil,1956,2.993859,South America
+BRA,Brazil,1957,3.1496594,South America
+BRA,Brazil,1958,3.2231312,South America
+BRA,Brazil,1959,3.2603498,South America
+BRA,Brazil,1960,3.4564524,South America
+BRA,Brazil,1961,3.843372,South America
+BRA,Brazil,1962,4.0359454,South America
+BRA,Brazil,1963,4.2099233,South America
+BRA,Brazil,1964,4.290529,South America
+BRA,Brazil,1965,4.448137,South America
+BRA,Brazil,1966,4.5464325,South America
+BRA,Brazil,1967,4.8078704,South America
+BRA,Brazil,1968,5.1697,South America
+BRA,Brazil,1969,5.1182575,South America
+BRA,Brazil,1970,5.6747894,South America
+BRA,Brazil,1971,6.0639844,South America
+BRA,Brazil,1972,6.4906282,South America
+BRA,Brazil,1973,6.6190286,South America
+BRA,Brazil,1974,7.0814433,South America
+BRA,Brazil,1975,7.2509727,South America
+BRA,Brazil,1976,7.7251,South America
+BRA,Brazil,1977,7.259542,South America
+BRA,Brazil,1978,7.3717403,South America
+BRA,Brazil,1979,8.0860195,South America
+BRA,Brazil,1980,8.250562,South America
+BRA,Brazil,1981,8.253053,South America
+BRA,Brazil,1982,8.056729,South America
+BRA,Brazil,1983,7.842175,South America
+BRA,Brazil,1984,7.8956366,South America
+BRA,Brazil,1985,7.777703,South America
+BRA,Brazil,1986,8.696103,South America
+BRA,Brazil,1987,8.725506,South America
+BRA,Brazil,1988,8.544542,South America
+BRA,Brazil,1989,8.606755,South America
+BRA,Brazil,1990,8.242826,South America
+BRA,Brazil,1991,9.07414,South America
+BRA,Brazil,1992,9.409157,South America
+BRA,Brazil,1993,10.025202,South America
+BRA,Brazil,1994,11.191038,South America
+BRA,Brazil,1995,12.966644,South America
+BRA,Brazil,1996,15.900982,South America
+BRA,Brazil,1997,15.198671,South America
+BRA,Brazil,1998,14.644109,South America
+BRA,Brazil,1999,13.644428,South America
+BRA,Brazil,2000,13.205463,South America
+BRA,Brazil,2001,13.1499,South America
+BRA,Brazil,2002,12.790789,South America
+BRA,Brazil,2003,12.609983,South America
+BRA,Brazil,2004,12.661911,South America
+BRA,Brazil,2005,12.894449,South America
+BRA,Brazil,2006,13.6727295,South America
+BRA,Brazil,2007,15.1835165,South America
+BRA,Brazil,2008,16.644289,South America
+BRA,Brazil,2009,17.25405,South America
+BRA,Brazil,2010,19.317396,South America
+BRA,Brazil,2011,20.919428,South America
+BRA,Brazil,2012,20.70806,South America
+BRA,Brazil,2013,20.708025,South America
+BRA,Brazil,2014,20.427624,South America
+BRA,Brazil,2015,19.356064,South America
+BRA,Brazil,2016,18.864923,South America
+BRA,Brazil,2017,19.188293,South America
+BRA,Brazil,2018,19.362707,South America
+BRA,Brazil,2019,19.195236,South America
+BGR,Bulgaria,1995,15.871054,Europe
+BGR,Bulgaria,1996,15.218238,Europe
+BGR,Bulgaria,1997,11.6641445,Europe
+BGR,Bulgaria,1998,14.167984,Europe
+BGR,Bulgaria,1999,14.213296,Europe
+BGR,Bulgaria,2000,15.97558,Europe
+BGR,Bulgaria,2001,16.91231,Europe
+BGR,Bulgaria,2002,17.264715,Europe
+BGR,Bulgaria,2003,17.42531,Europe
+BGR,Bulgaria,2004,17.387133,Europe
+BGR,Bulgaria,2005,19.274733,Europe
+BGR,Bulgaria,2006,19.62069,Europe
+BGR,Bulgaria,2007,20.245644,Europe
+BGR,Bulgaria,2008,20.501387,Europe
+BGR,Bulgaria,2009,21.017033,Europe
+BGR,Bulgaria,2010,23.100565,Europe
+BGR,Bulgaria,2011,23.712515,Europe
+BGR,Bulgaria,2012,24.541597,Europe
+BGR,Bulgaria,2013,23.3278,Europe
+BGR,Bulgaria,2014,23.708328,Europe
+BGR,Bulgaria,2015,24.152256,Europe
+BGR,Bulgaria,2016,25.448772,Europe
+BGR,Bulgaria,2017,25.392122,Europe
+BGR,Bulgaria,2018,26.212673,Europe
+BGR,Bulgaria,2019,26.554285,Europe
+MMR,Myanmar,1970,0.8174314,Asia
+MMR,Myanmar,1971,0.80939347,Asia
+MMR,Myanmar,1972,0.76764137,Asia
+MMR,Myanmar,1973,0.7758831,Asia
+MMR,Myanmar,1974,0.78822523,Asia
+MMR,Myanmar,1975,0.81184393,Asia
+MMR,Myanmar,1976,0.8223266,Asia
+MMR,Myanmar,1977,0.8301076,Asia
+MMR,Myanmar,1978,0.8378973,Asia
+MMR,Myanmar,1979,0.86823136,Asia
+MMR,Myanmar,1980,0.91043174,Asia
+MMR,Myanmar,1981,0.9460778,Asia
+MMR,Myanmar,1982,0.9827149,Asia
+MMR,Myanmar,1983,1.0137795,Asia
+MMR,Myanmar,1984,1.0367057,Asia
+MMR,Myanmar,1985,1.0159934,Asia
+MMR,Myanmar,1986,0.9754783,Asia
+MMR,Myanmar,1987,0.87661654,Asia
+MMR,Myanmar,1988,0.8084946,Asia
+MMR,Myanmar,1989,0.81218064,Asia
+MMR,Myanmar,1990,0.8488936,Asia
+MMR,Myanmar,1991,0.85160065,Asia
+MMR,Myanmar,1992,0.98256105,Asia
+MMR,Myanmar,1993,1.0339866,Asia
+MMR,Myanmar,1994,1.0573412,Asia
+MMR,Myanmar,1995,1.0921623,Asia
+MMR,Myanmar,1996,1.0761168,Asia
+MMR,Myanmar,1997,1.1003945,Asia
+MMR,Myanmar,1998,1.1736172,Asia
+MMR,Myanmar,1999,1.131848,Asia
+MMR,Myanmar,2000,1.132055,Asia
+MMR,Myanmar,2001,1.1956207,Asia
+MMR,Myanmar,2002,1.331625,Asia
+MMR,Myanmar,2003,1.4841847,Asia
+MMR,Myanmar,2004,1.6281185,Asia
+MMR,Myanmar,2005,1.8151124,Asia
+MMR,Myanmar,2006,2.0273707,Asia
+MMR,Myanmar,2007,2.3407452,Asia
+MMR,Myanmar,2008,2.6477537,Asia
+MMR,Myanmar,2009,3.1216426,Asia
+MMR,Myanmar,2010,3.7181845,Asia
+MMR,Myanmar,2011,4.0852246,Asia
+MMR,Myanmar,2012,3.299412,Asia
+MMR,Myanmar,2013,4.6283817,Asia
+MMR,Myanmar,2014,4.8591337,Asia
+MMR,Myanmar,2015,4.738345,Asia
+MMR,Myanmar,2016,4.711011,Asia
+MMR,Myanmar,2017,4.7354836,Asia
+MMR,Myanmar,2018,4.774512,Asia
+MMR,Myanmar,2019,5.147914,Asia
+KHM,Cambodia,1993,1.4276047,Asia
+KHM,Cambodia,1994,1.5565166,Asia
+KHM,Cambodia,1995,1.6360574,Asia
+KHM,Cambodia,1996,1.5068518,Asia
+KHM,Cambodia,1997,1.4833804,Asia
+KHM,Cambodia,1998,1.3490212,Asia
+KHM,Cambodia,1999,1.3725711,Asia
+KHM,Cambodia,2000,1.4149227,Asia
+KHM,Cambodia,2001,1.3620656,Asia
+KHM,Cambodia,2002,1.3941027,Asia
+KHM,Cambodia,2003,1.4804914,Asia
+KHM,Cambodia,2004,1.5548357,Asia
+KHM,Cambodia,2005,1.7654465,Asia
+KHM,Cambodia,2006,1.8179532,Asia
+KHM,Cambodia,2007,1.9759583,Asia
+KHM,Cambodia,2008,2.1253846,Asia
+KHM,Cambodia,2009,1.9446102,Asia
+KHM,Cambodia,2010,1.9493625,Asia
+KHM,Cambodia,2011,2.0494177,Asia
+KHM,Cambodia,2012,2.262898,Asia
+KHM,Cambodia,2013,2.4935715,Asia
+KHM,Cambodia,2014,2.528299,Asia
+KHM,Cambodia,2015,2.7521517,Asia
+KHM,Cambodia,2016,2.828313,Asia
+KHM,Cambodia,2017,3.02265,Asia
+KHM,Cambodia,2018,3.2637424,Asia
+KHM,Cambodia,2019,3.4332101,Asia
+CAN,Canada,1950,13.109431,North America
+CAN,Canada,1951,13.310611,North America
+CAN,Canada,1952,14.433081,North America
+CAN,Canada,1953,15.032083,North America
+CAN,Canada,1954,15.145221,North America
+CAN,Canada,1955,16.41964,North America
+CAN,Canada,1956,17.13559,North America
+CAN,Canada,1957,17.511963,North America
+CAN,Canada,1958,18.609625,North America
+CAN,Canada,1959,19.062283,North America
+CAN,Canada,1960,19.937597,North America
+CAN,Canada,1961,20.95527,North America
+CAN,Canada,1962,21.770847,North America
+CAN,Canada,1963,22.589294,North America
+CAN,Canada,1964,23.496054,North America
+CAN,Canada,1965,24.156694,North America
+CAN,Canada,1966,25.242016,North America
+CAN,Canada,1967,25.63635,North America
+CAN,Canada,1968,27.306343,North America
+CAN,Canada,1969,28.130598,North America
+CAN,Canada,1970,29.226566,North America
+CAN,Canada,1971,30.32986,North America
+CAN,Canada,1972,31.025532,North America
+CAN,Canada,1973,31.749811,North America
+CAN,Canada,1974,31.120964,North America
+CAN,Canada,1975,31.556856,North America
+CAN,Canada,1976,33.140583,North America
+CAN,Canada,1977,34.070026,North America
+CAN,Canada,1978,34.351818,North America
+CAN,Canada,1979,34.10858,North America
+CAN,Canada,1980,33.980278,North America
+CAN,Canada,1981,34.487015,North America
+CAN,Canada,1982,35.2997,North America
+CAN,Canada,1983,36.363117,North America
+CAN,Canada,1984,37.683777,North America
+CAN,Canada,1985,37.160995,North America
+CAN,Canada,1986,36.62128,North America
+CAN,Canada,1987,37.873367,North America
+CAN,Canada,1988,38.411175,North America
+CAN,Canada,1989,39.153515,North America
+CAN,Canada,1990,39.458393,North America
+CAN,Canada,1991,39.580822,North America
+CAN,Canada,1992,40.403233,North America
+CAN,Canada,1993,41.056454,North America
+CAN,Canada,1994,41.86076,North America
+CAN,Canada,1995,43.244484,North America
+CAN,Canada,1996,43.56252,North America
+CAN,Canada,1997,44.49898,North America
+CAN,Canada,1998,44.221897,North America
+CAN,Canada,1999,46.135338,North America
+CAN,Canada,2000,48.0997,North America
+CAN,Canada,2001,47.65457,North America
+CAN,Canada,2002,47.368656,North America
+CAN,Canada,2003,48.947586,North America
+CAN,Canada,2004,49.97147,North America
+CAN,Canada,2005,53.21647,North America
+CAN,Canada,2006,52.629272,North America
+CAN,Canada,2007,52.54481,North America
+CAN,Canada,2008,53.956257,North America
+CAN,Canada,2009,50.187183,North America
+CAN,Canada,2010,52.5742,North America
+CAN,Canada,2011,54.738247,North America
+CAN,Canada,2012,54.253727,North America
+CAN,Canada,2013,55.697662,North America
+CAN,Canada,2014,57.38791,North America
+CAN,Canada,2015,53.85795,North America
+CAN,Canada,2016,54.124077,North America
+CAN,Canada,2017,56.25572,North America
+CAN,Canada,2018,56.634796,North America
+CAN,Canada,2019,57.244343,North America
+LKA,Sri Lanka,1970,5.7481346,Asia
+LKA,Sri Lanka,1971,5.553913,Asia
+LKA,Sri Lanka,1972,5.5919013,Asia
+LKA,Sri Lanka,1973,5.820993,Asia
+LKA,Sri Lanka,1974,6.0267286,Asia
+LKA,Sri Lanka,1975,5.7754326,Asia
+LKA,Sri Lanka,1976,5.283566,Asia
+LKA,Sri Lanka,1977,4.9117985,Asia
+LKA,Sri Lanka,1978,4.8720555,Asia
+LKA,Sri Lanka,1979,4.426274,Asia
+LKA,Sri Lanka,1980,4.4011226,Asia
+LKA,Sri Lanka,1981,4.667469,Asia
+LKA,Sri Lanka,1982,4.5285296,Asia
+LKA,Sri Lanka,1983,4.4915776,Asia
+LKA,Sri Lanka,1984,4.5647106,Asia
+LKA,Sri Lanka,1985,4.9997396,Asia
+LKA,Sri Lanka,1986,5.1823993,Asia
+LKA,Sri Lanka,1987,5.382492,Asia
+LKA,Sri Lanka,1988,5.466899,Asia
+LKA,Sri Lanka,1989,5.6409006,Asia
+LKA,Sri Lanka,1990,5.8184776,Asia
+LKA,Sri Lanka,1991,5.9432445,Asia
+LKA,Sri Lanka,1992,6.4665484,Asia
+LKA,Sri Lanka,1993,6.633952,Asia
+LKA,Sri Lanka,1994,7.239582,Asia
+LKA,Sri Lanka,1995,7.3714666,Asia
+LKA,Sri Lanka,1996,7.525279,Asia
+LKA,Sri Lanka,1997,7.9399147,Asia
+LKA,Sri Lanka,1998,7.8684635,Asia
+LKA,Sri Lanka,1999,7.744222,Asia
+LKA,Sri Lanka,2000,7.3130565,Asia
+LKA,Sri Lanka,2001,7.4968944,Asia
+LKA,Sri Lanka,2002,8.34636,Asia
+LKA,Sri Lanka,2003,8.783546,Asia
+LKA,Sri Lanka,2004,8.072611,Asia
+LKA,Sri Lanka,2005,8.027195,Asia
+LKA,Sri Lanka,2006,9.716973,Asia
+LKA,Sri Lanka,2007,10.624909,Asia
+LKA,Sri Lanka,2008,10.802232,Asia
+LKA,Sri Lanka,2009,12.216344,Asia
+LKA,Sri Lanka,2010,12.932431,Asia
+LKA,Sri Lanka,2011,13.874193,Asia
+LKA,Sri Lanka,2012,15.157523,Asia
+LKA,Sri Lanka,2013,16.48785,Asia
+LKA,Sri Lanka,2014,16.443434,Asia
+LKA,Sri Lanka,2015,16.714605,Asia
+LKA,Sri Lanka,2016,17.275408,Asia
+LKA,Sri Lanka,2017,17.048513,Asia
+LKA,Sri Lanka,2018,17.891243,Asia
+LKA,Sri Lanka,2019,18.01952,Asia
+CHL,Chile,1951,5.5921326,South America
+CHL,Chile,1952,6.0218053,South America
+CHL,Chile,1953,6.131721,South America
+CHL,Chile,1954,6.5281677,South America
+CHL,Chile,1955,6.338384,South America
+CHL,Chile,1956,6.20075,South America
+CHL,Chile,1957,6.8051887,South America
+CHL,Chile,1958,7.0324726,South America
+CHL,Chile,1959,6.9309835,South America
+CHL,Chile,1960,7.3280573,South America
+CHL,Chile,1961,7.0301957,South America
+CHL,Chile,1962,8.722542,South America
+CHL,Chile,1963,9.074608,South America
+CHL,Chile,1964,9.252068,South America
+CHL,Chile,1965,8.736322,South America
+CHL,Chile,1966,9.539887,South America
+CHL,Chile,1967,10.731418,South America
+CHL,Chile,1968,10.425693,South America
+CHL,Chile,1969,10.844285,South America
+CHL,Chile,1970,11.469013,South America
+CHL,Chile,1971,11.988064,South America
+CHL,Chile,1972,11.477937,South America
+CHL,Chile,1973,11.165739,South America
+CHL,Chile,1974,11.029987,South America
+CHL,Chile,1975,9.539661,South America
+CHL,Chile,1976,9.726201,South America
+CHL,Chile,1977,10.289013,South America
+CHL,Chile,1978,10.876611,South America
+CHL,Chile,1979,11.4169035,South America
+CHL,Chile,1980,11.384216,South America
+CHL,Chile,1981,11.511819,South America
+CHL,Chile,1982,11.05627,South America
+CHL,Chile,1983,10.234632,South America
+CHL,Chile,1984,9.979272,South America
+CHL,Chile,1985,9.420758,South America
+CHL,Chile,1986,9.263736,South America
+CHL,Chile,1987,9.521081,South America
+CHL,Chile,1988,10.019357,South America
+CHL,Chile,1989,10.428452,South America
+CHL,Chile,1990,10.217053,South America
+CHL,Chile,1991,10.965407,South America
+CHL,Chile,1992,11.760703,South America
+CHL,Chile,1993,12.317478,South America
+CHL,Chile,1994,13.427241,South America
+CHL,Chile,1995,15.035986,South America
+CHL,Chile,1996,15.147533,South America
+CHL,Chile,1997,15.38203,South America
+CHL,Chile,1998,14.596497,South America
+CHL,Chile,1999,14.155196,South America
+CHL,Chile,2000,14.319135,South America
+CHL,Chile,2001,14.177331,South America
+CHL,Chile,2002,13.952596,South America
+CHL,Chile,2003,14.278694,South America
+CHL,Chile,2004,15.642367,South America
+CHL,Chile,2005,17.545631,South America
+CHL,Chile,2006,19.737719,South America
+CHL,Chile,2007,21.209396,South America
+CHL,Chile,2008,20.655039,South America
+CHL,Chile,2009,21.182268,South America
+CHL,Chile,2010,23.995832,South America
+CHL,Chile,2011,26.033329,South America
+CHL,Chile,2012,26.869024,South America
+CHL,Chile,2013,27.298716,South America
+CHL,Chile,2014,27.769316,South America
+CHL,Chile,2015,27.039087,South America
+CHL,Chile,2016,26.58352,South America
+CHL,Chile,2017,27.260792,South America
+CHL,Chile,2018,28.114603,South America
+CHL,Chile,2019,28.418756,South America
+CHN,China,1970,1.4994909,Asia
+CHN,China,1971,1.5798508,Asia
+CHN,China,1972,1.492279,Asia
+CHN,China,1973,1.5905421,Asia
+CHN,China,1974,1.5722494,Asia
+CHN,China,1975,1.5965048,Asia
+CHN,China,1976,1.4927917,Asia
+CHN,China,1977,1.5616083,Asia
+CHN,China,1978,1.7562629,Asia
+CHN,China,1979,1.7937474,Asia
+CHN,China,1980,1.7565327,Asia
+CHN,China,1981,1.6996822,Asia
+CHN,China,1982,1.7360451,Asia
+CHN,China,1983,1.8232234,Asia
+CHN,China,1984,2.0174322,Asia
+CHN,China,1985,2.2257786,Asia
+CHN,China,1986,2.2396414,Asia
+CHN,China,1987,2.3069808,Asia
+CHN,China,1988,2.379545,Asia
+CHN,China,1989,2.2952845,Asia
+CHN,China,1990,2.189328,Asia
+CHN,China,1991,2.25109,Asia
+CHN,China,1992,2.432315,Asia
+CHN,China,1993,2.6291595,Asia
+CHN,China,1994,2.7920673,Asia
+CHN,China,1995,3.0420306,Asia
+CHN,China,1996,3.2180831,Asia
+CHN,China,1997,3.2628345,Asia
+CHN,China,1998,3.2003472,Asia
+CHN,China,1999,3.320289,Asia
+CHN,China,2000,3.524101,Asia
+CHN,China,2001,3.775427,Asia
+CHN,China,2002,4.0724883,Asia
+CHN,China,2003,4.3798833,Asia
+CHN,China,2004,4.7892036,Asia
+CHN,China,2005,5.240103,Asia
+CHN,China,2006,5.70952,Asia
+CHN,China,2007,6.339555,Asia
+CHN,China,2008,6.7905946,Asia
+CHN,China,2009,7.314836,Asia
+CHN,China,2010,8.160233,Asia
+CHN,China,2011,8.755135,Asia
+CHN,China,2012,9.246322,Asia
+CHN,China,2013,9.604797,Asia
+CHN,China,2014,10.032687,Asia
+CHN,China,2015,10.392884,Asia
+CHN,China,2016,10.742945,Asia
+CHN,China,2017,11.3577385,Asia
+CHN,China,2018,11.380233,Asia
+CHN,China,2019,11.692401,Asia
+TWN,Taiwan,1951,1.7312752,Asia
+TWN,Taiwan,1952,1.9633273,Asia
+TWN,Taiwan,1953,2.1465368,Asia
+TWN,Taiwan,1954,2.3178558,Asia
+TWN,Taiwan,1955,2.4711213,Asia
+TWN,Taiwan,1956,2.641868,Asia
+TWN,Taiwan,1957,2.8316276,Asia
+TWN,Taiwan,1958,3.0093148,Asia
+TWN,Taiwan,1959,3.269034,Asia
+TWN,Taiwan,1960,3.475266,Asia
+TWN,Taiwan,1961,3.660054,Asia
+TWN,Taiwan,1962,3.8001552,Asia
+TWN,Taiwan,1963,4.036154,Asia
+TWN,Taiwan,1964,4.502321,Asia
+TWN,Taiwan,1965,5.0955157,Asia
+TWN,Taiwan,1966,5.366586,Asia
+TWN,Taiwan,1967,5.791475,Asia
+TWN,Taiwan,1968,6.168899,Asia
+TWN,Taiwan,1969,6.5292196,Asia
+TWN,Taiwan,1970,7.1502995,Asia
+TWN,Taiwan,1971,7.8370457,Asia
+TWN,Taiwan,1972,8.540299,Asia
+TWN,Taiwan,1973,9.067833,Asia
+TWN,Taiwan,1974,9.318994,Asia
+TWN,Taiwan,1975,9.282202,Asia
+TWN,Taiwan,1976,10.448288,Asia
+TWN,Taiwan,1977,10.780841,Asia
+TWN,Taiwan,1978,11.854256,Asia
+TWN,Taiwan,1979,12.4104,Asia
+TWN,Taiwan,1980,13.274427,Asia
+TWN,Taiwan,1981,13.874406,Asia
+TWN,Taiwan,1982,14.226761,Asia
+TWN,Taiwan,1983,14.790896,Asia
+TWN,Taiwan,1984,15.579275,Asia
+TWN,Taiwan,1985,15.57345,Asia
+TWN,Taiwan,1986,17.022797,Asia
+TWN,Taiwan,1987,18.705236,Asia
+TWN,Taiwan,1988,20.102743,Asia
+TWN,Taiwan,1989,21.682493,Asia
+TWN,Taiwan,1990,23.624458,Asia
+TWN,Taiwan,1991,25.034227,Asia
+TWN,Taiwan,1992,26.252848,Asia
+TWN,Taiwan,1993,27.145975,Asia
+TWN,Taiwan,1994,28.447737,Asia
+TWN,Taiwan,1995,29.068552,Asia
+TWN,Taiwan,1996,31.709291,Asia
+TWN,Taiwan,1997,34.076534,Asia
+TWN,Taiwan,1998,34.718487,Asia
+TWN,Taiwan,1999,36.13546,Asia
+TWN,Taiwan,2000,37.698467,Asia
+TWN,Taiwan,2001,38.410152,Asia
+TWN,Taiwan,2002,39.60988,Asia
+TWN,Taiwan,2003,39.98505,Asia
+TWN,Taiwan,2004,40.77388,Asia
+TWN,Taiwan,2005,43.20862,Asia
+TWN,Taiwan,2006,42.848755,Asia
+TWN,Taiwan,2007,43.57065,Asia
+TWN,Taiwan,2008,42.69296,Asia
+TWN,Taiwan,2009,41.856335,Asia
+TWN,Taiwan,2010,44.5601,Asia
+TWN,Taiwan,2011,45.668552,Asia
+TWN,Taiwan,2012,45.23482,Asia
+TWN,Taiwan,2013,44.61669,Asia
+TWN,Taiwan,2015,43.036137,Asia
+TWN,Taiwan,2016,43.07984,Asia
+TWN,Taiwan,2017,44.999302,Asia
+TWN,Taiwan,2018,45.001755,Asia
+TWN,Taiwan,2019,46.014313,Asia
+COL,Colombia,1950,5.212069,South America
+COL,Colombia,1951,5.2169585,South America
+COL,Colombia,1952,5.488161,South America
+COL,Colombia,1953,5.8757877,South America
+COL,Colombia,1954,6.3459153,South America
+COL,Colombia,1955,6.4887123,South America
+COL,Colombia,1956,6.525702,South America
+COL,Colombia,1957,6.401223,South America
+COL,Colombia,1958,6.2869716,South America
+COL,Colombia,1959,6.5528708,South America
+COL,Colombia,1960,6.8252225,South America
+COL,Colombia,1961,7.0955415,South America
+COL,Colombia,1962,7.2613964,South America
+COL,Colombia,1963,7.305476,South America
+COL,Colombia,1964,7.7356954,South America
+COL,Colombia,1965,7.5665483,South America
+COL,Colombia,1966,7.7332644,South America
+COL,Colombia,1967,7.7763033,South America
+COL,Colombia,1968,8.016389,South America
+COL,Colombia,1969,8.292535,South America
+COL,Colombia,1970,8.658013,South America
+COL,Colombia,1971,9.3207855,South America
+COL,Colombia,1972,9.962814,South America
+COL,Colombia,1973,10.742559,South America
+COL,Colombia,1974,11.288453,South America
+COL,Colombia,1975,11.386851,South America
+COL,Colombia,1976,11.813872,South America
+COL,Colombia,1977,11.88478,South America
+COL,Colombia,1978,12.485811,South America
+COL,Colombia,1979,12.622362,South America
+COL,Colombia,1980,13.006309,South America
+COL,Colombia,1981,12.575456,South America
+COL,Colombia,1982,12.480529,South America
+COL,Colombia,1983,12.470107,South America
+COL,Colombia,1984,12.669176,South America
+COL,Colombia,1985,12.3817625,South America
+COL,Colombia,1986,12.767563,South America
+COL,Colombia,1987,12.30303,South America
+COL,Colombia,1988,12.297837,South America
+COL,Colombia,1989,12.063895,South America
+COL,Colombia,1990,12.202242,South America
+COL,Colombia,1991,11.571942,South America
+COL,Colombia,1992,12.032496,South America
+COL,Colombia,1993,12.007203,South America
+COL,Colombia,1994,12.118897,South America
+COL,Colombia,1995,12.136691,South America
+COL,Colombia,1996,12.026752,South America
+COL,Colombia,1997,12.097997,South America
+COL,Colombia,1998,11.842075,South America
+COL,Colombia,1999,11.3847885,South America
+COL,Colombia,2000,11.04398,South America
+COL,Colombia,2001,11.027083,South America
+COL,Colombia,2002,10.495688,South America
+COL,Colombia,2003,10.553985,South America
+COL,Colombia,2004,10.728965,South America
+COL,Colombia,2005,10.961963,South America
+COL,Colombia,2006,11.455455,South America
+COL,Colombia,2007,11.84688,South America
+COL,Colombia,2008,12.6653185,South America
+COL,Colombia,2009,12.9909935,South America
+COL,Colombia,2010,13.992607,South America
+COL,Colombia,2011,15.261172,South America
+COL,Colombia,2012,15.648261,South America
+COL,Colombia,2013,15.742564,South America
+COL,Colombia,2014,16.171175,South America
+COL,Colombia,2015,15.556253,South America
+COL,Colombia,2016,15.507443,South America
+COL,Colombia,2017,15.632915,South America
+COL,Colombia,2018,16.24981,South America
+COL,Colombia,2019,16.958618,South America
+CRI,Costa Rica,1987,10.304371,North America
+CRI,Costa Rica,1988,10.34842,North America
+CRI,Costa Rica,1989,10.515163,North America
+CRI,Costa Rica,1990,10.407295,North America
+CRI,Costa Rica,1991,10.783928,North America
+CRI,Costa Rica,1992,10.975786,North America
+CRI,Costa Rica,1993,11.425903,North America
+CRI,Costa Rica,1994,11.457872,North America
+CRI,Costa Rica,1995,11.751092,North America
+CRI,Costa Rica,1996,11.078427,North America
+CRI,Costa Rica,1997,11.226522,North America
+CRI,Costa Rica,1998,11.975157,North America
+CRI,Costa Rica,1999,11.688505,North America
+CRI,Costa Rica,2000,11.7755375,North America
+CRI,Costa Rica,2001,12.216593,North America
+CRI,Costa Rica,2002,11.855461,North America
+CRI,Costa Rica,2003,11.971055,North America
+CRI,Costa Rica,2004,12.049881,North America
+CRI,Costa Rica,2005,12.674956,North America
+CRI,Costa Rica,2006,12.448823,North America
+CRI,Costa Rica,2007,12.474863,North America
+CRI,Costa Rica,2008,12.858949,North America
+CRI,Costa Rica,2009,13.92298,North America
+CRI,Costa Rica,2010,14.393219,North America
+CRI,Costa Rica,2011,14.72274,North America
+CRI,Costa Rica,2012,16.007177,North America
+CRI,Costa Rica,2013,15.922192,North America
+CRI,Costa Rica,2014,16.74481,North America
+CRI,Costa Rica,2015,17.4247,North America
+CRI,Costa Rica,2016,17.779793,North America
+CRI,Costa Rica,2017,18.72804,North America
+CRI,Costa Rica,2018,19.487766,North America
+CRI,Costa Rica,2019,20.024153,North America
+HRV,Croatia,1995,14.890187,Europe
+HRV,Croatia,1996,15.311452,Europe
+HRV,Croatia,1997,16.620672,Europe
+HRV,Croatia,1998,17.223452,Europe
+HRV,Croatia,1999,17.612299,Europe
+HRV,Croatia,2000,18.520042,Europe
+HRV,Croatia,2001,19.14866,Europe
+HRV,Croatia,2002,20.48642,Europe
+HRV,Croatia,2003,21.303438,Europe
+HRV,Croatia,2004,21.742834,Europe
+HRV,Croatia,2005,23.412586,Europe
+HRV,Croatia,2006,24.864307,Europe
+HRV,Croatia,2007,26.065681,Europe
+HRV,Croatia,2008,27.103188,Europe
+HRV,Croatia,2009,26.007278,Europe
+HRV,Croatia,2010,26.562008,Europe
+HRV,Croatia,2011,28.587975,Europe
+HRV,Croatia,2012,29.960676,Europe
+HRV,Croatia,2013,29.518702,Europe
+HRV,Croatia,2014,28.81806,Europe
+HRV,Croatia,2015,30.722673,Europe
+HRV,Croatia,2016,31.301752,Europe
+HRV,Croatia,2017,33.157127,Europe
+HRV,Croatia,2018,32.155815,Europe
+HRV,Croatia,2019,32.262863,Europe
+CYP,Cyprus,1995,31.736198,Europe
+CYP,Cyprus,1996,31.336063,Europe
+CYP,Cyprus,1997,32.127403,Europe
+CYP,Cyprus,1998,31.289942,Europe
+CYP,Cyprus,1999,32.990593,Europe
+CYP,Cyprus,2000,37.073933,Europe
+CYP,Cyprus,2001,36.84264,Europe
+CYP,Cyprus,2002,35.53141,Europe
+CYP,Cyprus,2003,32.61625,Europe
+CYP,Cyprus,2004,32.660805,Europe
+CYP,Cyprus,2005,37.081375,Europe
+CYP,Cyprus,2006,37.981335,Europe
+CYP,Cyprus,2007,38.346024,Europe
+CYP,Cyprus,2008,39.743683,Europe
+CYP,Cyprus,2009,40.4957,Europe
+CYP,Cyprus,2010,41.430702,Europe
+CYP,Cyprus,2011,41.143955,Europe
+CYP,Cyprus,2012,43.860336,Europe
+CYP,Cyprus,2013,42.46294,Europe
+CYP,Cyprus,2014,40.367233,Europe
+CYP,Cyprus,2015,41.750725,Europe
+CYP,Cyprus,2016,43.303314,Europe
+CYP,Cyprus,2017,42.592216,Europe
+CYP,Cyprus,2018,41.64566,Europe
+CYP,Cyprus,2019,42.394142,Europe
+CYP,Cyprus,1995,31.736198,Asia
+CYP,Cyprus,1996,31.336063,Asia
+CYP,Cyprus,1997,32.127403,Asia
+CYP,Cyprus,1998,31.289942,Asia
+CYP,Cyprus,1999,32.990593,Asia
+CYP,Cyprus,2000,37.073933,Asia
+CYP,Cyprus,2001,36.84264,Asia
+CYP,Cyprus,2002,35.53141,Asia
+CYP,Cyprus,2003,32.61625,Asia
+CYP,Cyprus,2004,32.660805,Asia
+CYP,Cyprus,2005,37.081375,Asia
+CYP,Cyprus,2006,37.981335,Asia
+CYP,Cyprus,2007,38.346024,Asia
+CYP,Cyprus,2008,39.743683,Asia
+CYP,Cyprus,2009,40.4957,Asia
+CYP,Cyprus,2010,41.430702,Asia
+CYP,Cyprus,2011,41.143955,Asia
+CYP,Cyprus,2012,43.860336,Asia
+CYP,Cyprus,2013,42.46294,Asia
+CYP,Cyprus,2014,40.367233,Asia
+CYP,Cyprus,2015,41.750725,Asia
+CYP,Cyprus,2016,43.303314,Asia
+CYP,Cyprus,2017,42.592216,Asia
+CYP,Cyprus,2018,41.64566,Asia
+CYP,Cyprus,2019,42.394142,Asia
+CZE,Czechia,1993,22.713095,Europe
+CZE,Czechia,1994,23.92454,Europe
+CZE,Czechia,1995,24.41806,Europe
+CZE,Czechia,1996,25.458124,Europe
+CZE,Czechia,1997,24.658945,Europe
+CZE,Czechia,1998,23.894592,Europe
+CZE,Czechia,1999,24.11468,Europe
+CZE,Czechia,2000,24.99341,Europe
+CZE,Czechia,2001,27.296064,Europe
+CZE,Czechia,2002,26.66842,Europe
+CZE,Czechia,2003,28.30444,Europe
+CZE,Czechia,2004,28.998938,Europe
+CZE,Czechia,2005,30.995367,Europe
+CZE,Czechia,2006,31.548971,Europe
+CZE,Czechia,2007,33.9257,Europe
+CZE,Czechia,2008,34.9061,Europe
+CZE,Czechia,2009,34.344757,Europe
+CZE,Czechia,2010,34.754707,Europe
+CZE,Czechia,2011,35.788155,Europe
+CZE,Czechia,2012,36.074688,Europe
+CZE,Czechia,2013,35.771816,Europe
+CZE,Czechia,2014,36.94107,Europe
+CZE,Czechia,2015,37.861492,Europe
+CZE,Czechia,2016,37.674496,Europe
+CZE,Czechia,2017,39.42305,Europe
+CZE,Czechia,2018,40.233643,Europe
+CZE,Czechia,2019,40.932842,Europe
+DNK,Denmark,1950,11.126337,Europe
+DNK,Denmark,1951,10.884768,Europe
+DNK,Denmark,1952,11.300657,Europe
+DNK,Denmark,1953,11.838272,Europe
+DNK,Denmark,1954,12.213473,Europe
+DNK,Denmark,1955,12.290739,Europe
+DNK,Denmark,1956,12.706077,Europe
+DNK,Denmark,1957,13.414882,Europe
+DNK,Denmark,1958,13.721625,Europe
+DNK,Denmark,1959,14.685602,Europe
+DNK,Denmark,1960,15.42355,Europe
+DNK,Denmark,1961,16.064203,Europe
+DNK,Denmark,1962,16.478182,Europe
+DNK,Denmark,1963,16.441538,Europe
+DNK,Denmark,1964,17.316753,Europe
+DNK,Denmark,1965,17.638227,Europe
+DNK,Denmark,1966,17.69067,Europe
+DNK,Denmark,1967,18.918356,Europe
+DNK,Denmark,1968,20.30922,Europe
+DNK,Denmark,1969,21.647964,Europe
+DNK,Denmark,1970,21.92385,Europe
+DNK,Denmark,1971,23.027967,Europe
+DNK,Denmark,1972,24.29546,Europe
+DNK,Denmark,1973,25.54746,Europe
+DNK,Denmark,1974,25.632261,Europe
+DNK,Denmark,1975,26.708607,Europe
+DNK,Denmark,1976,27.579632,Europe
+DNK,Denmark,1977,28.786543,Europe
+DNK,Denmark,1978,29.802046,Europe
+DNK,Denmark,1979,30.885096,Europe
+DNK,Denmark,1980,30.962759,Europe
+DNK,Denmark,1981,30.940481,Europe
+DNK,Denmark,1982,31.15781,Europe
+DNK,Denmark,1983,31.551912,Europe
+DNK,Denmark,1984,31.861483,Europe
+DNK,Denmark,1985,31.912687,Europe
+DNK,Denmark,1986,33.409554,Europe
+DNK,Denmark,1987,34.8432,Europe
+DNK,Denmark,1988,35.508083,Europe
+DNK,Denmark,1989,36.199947,Europe
+DNK,Denmark,1990,37.689945,Europe
+DNK,Denmark,1991,38.28121,Europe
+DNK,Denmark,1992,39.69486,Europe
+DNK,Denmark,1993,40.130573,Europe
+DNK,Denmark,1994,42.327744,Europe
+DNK,Denmark,1995,43.13151,Europe
+DNK,Denmark,1996,44.58613,Europe
+DNK,Denmark,1997,45.786285,Europe
+DNK,Denmark,1998,46.091236,Europe
+DNK,Denmark,1999,47.36426,Europe
+DNK,Denmark,2000,49.45022,Europe
+DNK,Denmark,2001,48.86709,Europe
+DNK,Denmark,2002,48.93154,Europe
+DNK,Denmark,2003,50.505646,Europe
+DNK,Denmark,2004,53.430977,Europe
+DNK,Denmark,2005,57.733273,Europe
+DNK,Denmark,2006,58.512756,Europe
+DNK,Denmark,2007,59.79641,Europe
+DNK,Denmark,2008,62.95679,Europe
+DNK,Denmark,2009,62.821857,Europe
+DNK,Denmark,2010,68.3601,Europe
+DNK,Denmark,2011,69.12133,Europe
+DNK,Denmark,2012,69.71549,Europe
+DNK,Denmark,2013,68.29498,Europe
+DNK,Denmark,2014,68.46331,Europe
+DNK,Denmark,2015,67.80658,Europe
+DNK,Denmark,2016,69.00419,Europe
+DNK,Denmark,2017,72.54114,Europe
+DNK,Denmark,2018,73.471725,Europe
+DNK,Denmark,2019,76.00354,Europe
+DOM,Dominican Republic,1990,7.970508,North America
+DOM,Dominican Republic,1991,7.6652966,North America
+DOM,Dominican Republic,1992,8.44671,North America
+DOM,Dominican Republic,1993,8.843941,North America
+DOM,Dominican Republic,1994,9.257128,North America
+DOM,Dominican Republic,1995,9.373549,North America
+DOM,Dominican Republic,1996,9.752136,North America
+DOM,Dominican Republic,1997,10.190414,North America
+DOM,Dominican Republic,1998,10.275898,North America
+DOM,Dominican Republic,1999,10.516266,North America
+DOM,Dominican Republic,2000,10.741322,North America
+DOM,Dominican Republic,2001,12.159381,North America
+DOM,Dominican Republic,2002,11.998438,North America
+DOM,Dominican Republic,2003,11.167237,North America
+DOM,Dominican Republic,2004,11.204515,North America
+DOM,Dominican Republic,2005,12.313813,North America
+DOM,Dominican Republic,2006,13.39217,North America
+DOM,Dominican Republic,2007,14.156733,North America
+DOM,Dominican Republic,2008,13.8189745,North America
+DOM,Dominican Republic,2009,14.579355,North America
+DOM,Dominican Republic,2010,15.407397,North America
+DOM,Dominican Republic,2011,15.218588,North America
+DOM,Dominican Republic,2012,15.260428,North America
+DOM,Dominican Republic,2013,15.17758,North America
+DOM,Dominican Republic,2014,14.930788,North America
+DOM,Dominican Republic,2015,15.97378,North America
+DOM,Dominican Republic,2016,16.787802,North America
+DOM,Dominican Republic,2017,16.889729,North America
+DOM,Dominican Republic,2018,17.066357,North America
+DOM,Dominican Republic,2019,17.53021,North America
+ECU,Ecuador,1995,8.462219,South America
+ECU,Ecuador,1996,8.222675,South America
+ECU,Ecuador,1997,8.293992,South America
+ECU,Ecuador,1998,8.085482,South America
+ECU,Ecuador,1999,8.654562,South America
+ECU,Ecuador,2000,8.451831,South America
+ECU,Ecuador,2001,8.54152,South America
+ECU,Ecuador,2002,9.023662,South America
+ECU,Ecuador,2003,9.242497,South America
+ECU,Ecuador,2004,9.732682,South America
+ECU,Ecuador,2005,10.5780945,South America
+ECU,Ecuador,2006,11.242552,South America
+ECU,Ecuador,2007,11.746122,South America
+ECU,Ecuador,2008,12.561716,South America
+ECU,Ecuador,2009,12.076946,South America
+ECU,Ecuador,2010,12.846698,South America
+ECU,Ecuador,2011,13.907233,South America
+ECU,Ecuador,2012,14.7645445,South America
+ECU,Ecuador,2013,15.656399,South America
+ECU,Ecuador,2014,15.775506,South America
+ECU,Ecuador,2015,14.822678,South America
+ECU,Ecuador,2016,14.931975,South America
+ECU,Ecuador,2017,15.323919,South America
+ECU,Ecuador,2018,15.304225,South America
+ECU,Ecuador,2019,15.255215,South America
+EST,Estonia,1995,12.301138,Europe
+EST,Estonia,1996,13.50568,Europe
+EST,Estonia,1997,13.651728,Europe
+EST,Estonia,1998,13.645548,Europe
+EST,Estonia,1999,14.061493,Europe
+EST,Estonia,2000,15.343206,Europe
+EST,Estonia,2001,16.098131,Europe
+EST,Estonia,2002,17.122402,Europe
+EST,Estonia,2003,17.849754,Europe
+EST,Estonia,2004,18.683674,Europe
+EST,Estonia,2005,21.846905,Europe
+EST,Estonia,2006,22.57687,Europe
+EST,Estonia,2007,25.209894,Europe
+EST,Estonia,2008,26.09065,Europe
+EST,Estonia,2009,27.819883,Europe
+EST,Estonia,2010,30.204777,Europe
+EST,Estonia,2011,30.91355,Europe
+EST,Estonia,2012,32.658714,Europe
+EST,Estonia,2013,32.855225,Europe
+EST,Estonia,2014,33.371788,Europe
+EST,Estonia,2015,31.78334,Europe
+EST,Estonia,2016,32.530643,Europe
+EST,Estonia,2017,33.487995,Europe
+EST,Estonia,2018,35.467113,Europe
+EST,Estonia,2019,37.103794,Europe
+FIN,Finland,1950,5.961683,Europe
+FIN,Finland,1951,6.6988072,Europe
+FIN,Finland,1952,6.839305,Europe
+FIN,Finland,1953,6.76759,Europe
+FIN,Finland,1954,7.4819784,Europe
+FIN,Finland,1955,8.07144,Europe
+FIN,Finland,1956,8.200379,Europe
+FIN,Finland,1957,8.264831,Europe
+FIN,Finland,1958,8.288224,Europe
+FIN,Finland,1959,8.930468,Europe
+FIN,Finland,1960,9.851797,Europe
+FIN,Finland,1961,10.63842,Europe
+FIN,Finland,1962,10.93978,Europe
+FIN,Finland,1963,11.025875,Europe
+FIN,Finland,1964,11.242805,Europe
+FIN,Finland,1965,11.80405,Europe
+FIN,Finland,1966,12.286873,Europe
+FIN,Finland,1967,13.006341,Europe
+FIN,Finland,1968,14.001974,Europe
+FIN,Finland,1969,15.320489,Europe
+FIN,Finland,1970,16.059736,Europe
+FIN,Finland,1971,16.751348,Europe
+FIN,Finland,1972,17.883585,Europe
+FIN,Finland,1973,18.932371,Europe
+FIN,Finland,1974,19.626944,Europe
+FIN,Finland,1975,19.24504,Europe
+FIN,Finland,1976,19.430626,Europe
+FIN,Finland,1977,19.996984,Europe
+FIN,Finland,1978,20.928228,Europe
+FIN,Finland,1979,22.372446,Europe
+FIN,Finland,1980,24.083199,Europe
+FIN,Finland,1981,24.173162,Europe
+FIN,Finland,1982,24.389318,Europe
+FIN,Finland,1983,24.978033,Europe
+FIN,Finland,1984,25.632359,Europe
+FIN,Finland,1985,25.800379,Europe
+FIN,Finland,1986,27.777464,Europe
+FIN,Finland,1987,28.706995,Europe
+FIN,Finland,1988,30.721735,Europe
+FIN,Finland,1989,31.58303,Europe
+FIN,Finland,1990,32.17027,Europe
+FIN,Finland,1991,31.542807,Europe
+FIN,Finland,1992,32.590652,Europe
+FIN,Finland,1993,34.485252,Europe
+FIN,Finland,1994,36.920357,Europe
+FIN,Finland,1995,40.329865,Europe
+FIN,Finland,1996,39.653557,Europe
+FIN,Finland,1997,41.89941,Europe
+FIN,Finland,1998,44.723362,Europe
+FIN,Finland,1999,46.023457,Europe
+FIN,Finland,2000,47.46425,Europe
+FIN,Finland,2001,47.483337,Europe
+FIN,Finland,2002,46.907173,Europe
+FIN,Finland,2003,47.85348,Europe
+FIN,Finland,2004,49.805534,Europe
+FIN,Finland,2005,52.73542,Europe
+FIN,Finland,2006,53.03463,Europe
+FIN,Finland,2007,56.579884,Europe
+FIN,Finland,2008,57.646393,Europe
+FIN,Finland,2009,54.963795,Europe
+FIN,Finland,2010,57.055943,Europe
+FIN,Finland,2011,57.478252,Europe
+FIN,Finland,2012,56.84866,Europe
+FIN,Finland,2013,55.0958,Europe
+FIN,Finland,2014,55.271935,Europe
+FIN,Finland,2015,56.280693,Europe
+FIN,Finland,2016,57.455666,Europe
+FIN,Finland,2017,58.88464,Europe
+FIN,Finland,2018,58.10097,Europe
+FIN,Finland,2019,58.440796,Europe
+FRA,France,1950,7.0669904,Europe
+FRA,France,1951,7.3708344,Europe
+FRA,France,1952,7.6154313,Europe
+FRA,France,1953,8.0360365,Europe
+FRA,France,1954,8.459862,Europe
+FRA,France,1955,8.945585,Europe
+FRA,France,1956,9.514151,Europe
+FRA,France,1957,10.132573,Europe
+FRA,France,1958,10.56748,Europe
+FRA,France,1959,10.923368,Europe
+FRA,France,1960,11.760632,Europe
+FRA,France,1961,12.476836,Europe
+FRA,France,1962,13.259141,Europe
+FRA,France,1963,14.115616,Europe
+FRA,France,1964,14.846327,Europe
+FRA,France,1965,15.589289,Europe
+FRA,France,1966,16.37379,Europe
+FRA,France,1967,17.421177,Europe
+FRA,France,1968,18.424807,Europe
+FRA,France,1969,20.164831,Europe
+FRA,France,1970,21.312586,Europe
+FRA,France,1971,22.54977,Europe
+FRA,France,1972,24.26745,Europe
+FRA,France,1973,25.896788,Europe
+FRA,France,1974,27.329742,Europe
+FRA,France,1975,27.793558,Europe
+FRA,France,1976,28.47386,Europe
+FRA,France,1977,30.002554,Europe
+FRA,France,1978,31.754593,Europe
+FRA,France,1979,32.94602,Europe
+FRA,France,1980,33.6654,Europe
+FRA,France,1981,33.427803,Europe
+FRA,France,1982,34.671894,Europe
+FRA,France,1983,34.535408,Europe
+FRA,France,1984,34.488884,Europe
+FRA,France,1985,34.685844,Europe
+FRA,France,1986,36.508186,Europe
+FRA,France,1987,36.967834,Europe
+FRA,France,1988,38.251118,Europe
+FRA,France,1989,39.538567,Europe
+FRA,France,1990,40.628033,Europe
+FRA,France,1991,40.906864,Europe
+FRA,France,1992,42.00623,Europe
+FRA,France,1993,42.577908,Europe
+FRA,France,1994,43.298325,Europe
+FRA,France,1995,44.417713,Europe
+FRA,France,1996,45.24303,Europe
+FRA,France,1997,47.492073,Europe
+FRA,France,1998,49.58453,Europe
+FRA,France,1999,50.931835,Europe
+FRA,France,2000,53.307465,Europe
+FRA,France,2001,54.71325,Europe
+FRA,France,2002,55.974445,Europe
+FRA,France,2003,54.45298,Europe
+FRA,France,2004,54.626713,Europe
+FRA,France,2005,58.805424,Europe
+FRA,France,2006,60.341972,Europe
+FRA,France,2007,61.384407,Europe
+FRA,France,2008,61.362904,Europe
+FRA,France,2009,60.533497,Europe
+FRA,France,2010,62.623447,Europe
+FRA,France,2011,63.61985,Europe
+FRA,France,2012,64.426056,Europe
+FRA,France,2013,64.4049,Europe
+FRA,France,2014,64.65075,Europe
+FRA,France,2015,65.6156,Europe
+FRA,France,2016,65.87519,Europe
+FRA,France,2017,68.37434,Europe
+FRA,France,2018,68.86071,Europe
+FRA,France,2019,68.63126,Europe
+DEU,Germany,1950,4.7953887,Europe
+DEU,Germany,1951,5.26503,Europe
+DEU,Germany,1952,5.704417,Europe
+DEU,Germany,1953,6.1068497,Europe
+DEU,Germany,1954,6.508941,Europe
+DEU,Germany,1955,7.258235,Europe
+DEU,Germany,1956,7.7465124,Europe
+DEU,Germany,1957,8.123039,Europe
+DEU,Germany,1958,8.419739,Europe
+DEU,Germany,1959,9.1394,Europe
+DEU,Germany,1960,9.996917,Europe
+DEU,Germany,1961,10.425338,Europe
+DEU,Germany,1962,10.9673395,Europe
+DEU,Germany,1963,11.367186,Europe
+DEU,Germany,1964,12.132016,Europe
+DEU,Germany,1965,12.7834835,Europe
+DEU,Germany,1966,13.337516,Europe
+DEU,Germany,1967,13.751142,Europe
+DEU,Germany,1968,14.593636,Europe
+DEU,Germany,1969,15.692115,Europe
+DEU,Germany,1970,16.493956,Europe
+DEU,Germany,1971,17.306416,Europe
+DEU,Germany,1972,18.368864,Europe
+DEU,Germany,1973,19.575747,Europe
+DEU,Germany,1974,20.411127,Europe
+DEU,Germany,1975,21.18582,Europe
+DEU,Germany,1976,22.1344,Europe
+DEU,Germany,1977,23.124657,Europe
+DEU,Germany,1978,23.992764,Europe
+DEU,Germany,1979,24.956835,Europe
+DEU,Germany,1980,25.373142,Europe
+DEU,Germany,1981,25.213594,Europe
+DEU,Germany,1982,24.999678,Europe
+DEU,Germany,1983,25.374886,Europe
+DEU,Germany,1984,25.644768,Europe
+DEU,Germany,1985,25.79623,Europe
+DEU,Germany,1986,27.840014,Europe
+DEU,Germany,1987,29.226923,Europe
+DEU,Germany,1988,30.688011,Europe
+DEU,Germany,1989,32.26974,Europe
+DEU,Germany,1990,35.48058,Europe
+DEU,Germany,1991,39.042515,Europe
+DEU,Germany,1992,40.763165,Europe
+DEU,Germany,1993,42.447567,Europe
+DEU,Germany,1994,44.128757,Europe
+DEU,Germany,1995,45.659077,Europe
+DEU,Germany,1996,46.71666,Europe
+DEU,Germany,1997,48.596165,Europe
+DEU,Germany,1998,49.783123,Europe
+DEU,Germany,1999,51.45359,Europe
+DEU,Germany,2000,52.285507,Europe
+DEU,Germany,2001,53.48152,Europe
+DEU,Germany,2002,53.929928,Europe
+DEU,Germany,2003,56.040497,Europe
+DEU,Germany,2004,57.46974,Europe
+DEU,Germany,2005,60.835007,Europe
+DEU,Germany,2006,60.941315,Europe
+DEU,Germany,2007,63.31257,Europe
+DEU,Germany,2008,64.230896,Europe
+DEU,Germany,2009,61.58084,Europe
+DEU,Germany,2010,63.392994,Europe
+DEU,Germany,2011,65.64055,Europe
+DEU,Germany,2012,65.28418,Europe
+DEU,Germany,2013,65.47312,Europe
+DEU,Germany,2014,67.03571,Europe
+DEU,Germany,2015,65.975876,Europe
+DEU,Germany,2016,67.61837,Europe
+DEU,Germany,2017,69.84848,Europe
+DEU,Germany,2018,69.22487,Europe
+DEU,Germany,2019,68.8512,Europe
+GRC,Greece,1951,3.6363769,Europe
+GRC,Greece,1952,3.5349402,Europe
+GRC,Greece,1953,3.9919205,Europe
+GRC,Greece,1954,4.0549016,Europe
+GRC,Greece,1955,4.315129,Europe
+GRC,Greece,1956,4.681695,Europe
+GRC,Greece,1957,5.0393863,Europe
+GRC,Greece,1958,5.270527,Europe
+GRC,Greece,1959,5.4889517,Europe
+GRC,Greece,1960,5.5945997,Europe
+GRC,Greece,1961,6.369367,Europe
+GRC,Greece,1962,6.3553023,Europe
+GRC,Greece,1963,7.309627,Europe
+GRC,Greece,1964,7.975922,Europe
+GRC,Greece,1965,8.941835,Europe
+GRC,Greece,1966,9.773971,Europe
+GRC,Greece,1967,10.441654,Europe
+GRC,Greece,1968,11.31966,Europe
+GRC,Greece,1969,12.700157,Europe
+GRC,Greece,1970,14.167641,Europe
+GRC,Greece,1971,15.202813,Europe
+GRC,Greece,1972,16.628654,Europe
+GRC,Greece,1973,17.610304,Europe
+GRC,Greece,1974,16.418835,Europe
+GRC,Greece,1975,17.327635,Europe
+GRC,Greece,1976,18.233162,Europe
+GRC,Greece,1977,18.446585,Europe
+GRC,Greece,1978,19.632868,Europe
+GRC,Greece,1979,19.80273,Europe
+GRC,Greece,1980,19.850082,Europe
+GRC,Greece,1981,18.889305,Europe
+GRC,Greece,1982,18.45468,Europe
+GRC,Greece,1983,18.135271,Europe
+GRC,Greece,1984,18.596132,Europe
+GRC,Greece,1985,18.799734,Europe
+GRC,Greece,1986,19.476492,Europe
+GRC,Greece,1987,19.275963,Europe
+GRC,Greece,1988,20.28786,Europe
+GRC,Greece,1989,21.167871,Europe
+GRC,Greece,1990,21.163189,Europe
+GRC,Greece,1991,22.957603,Europe
+GRC,Greece,1992,22.959055,Europe
+GRC,Greece,1993,23.204052,Europe
+GRC,Greece,1994,23.899431,Europe
+GRC,Greece,1995,24.422226,Europe
+GRC,Greece,1996,25.27915,Europe
+GRC,Greece,1997,27.682163,Europe
+GRC,Greece,1998,28.066174,Europe
+GRC,Greece,1999,28.65987,Europe
+GRC,Greece,2000,29.945686,Europe
+GRC,Greece,2001,31.08533,Europe
+GRC,Greece,2002,31.685326,Europe
+GRC,Greece,2003,31.434181,Europe
+GRC,Greece,2004,32.293423,Europe
+GRC,Greece,2005,31.981937,Europe
+GRC,Greece,2006,34.261112,Europe
+GRC,Greece,2007,34.34362,Europe
+GRC,Greece,2008,35.341404,Europe
+GRC,Greece,2009,35.15161,Europe
+GRC,Greece,2010,34.640182,Europe
+GRC,Greece,2011,33.544884,Europe
+GRC,Greece,2012,33.95745,Europe
+GRC,Greece,2013,34.727486,Europe
+GRC,Greece,2014,34.524815,Europe
+GRC,Greece,2015,34.289143,Europe
+GRC,Greece,2016,33.34414,Europe
+GRC,Greece,2017,33.359955,Europe
+GRC,Greece,2018,32.902008,Europe
+GRC,Greece,2019,33.032787,Europe
+HKG,Hong Kong,1960,5.949894,Asia
+HKG,Hong Kong,1961,6.0440574,Asia
+HKG,Hong Kong,1962,6.3918276,Asia
+HKG,Hong Kong,1963,6.9649568,Asia
+HKG,Hong Kong,1964,7.40678,Asia
+HKG,Hong Kong,1965,8.207192,Asia
+HKG,Hong Kong,1966,8.504254,Asia
+HKG,Hong Kong,1967,8.559179,Asia
+HKG,Hong Kong,1968,8.833507,Asia
+HKG,Hong Kong,1969,9.653987,Asia
+HKG,Hong Kong,1970,10.348625,Asia
+HKG,Hong Kong,1971,10.910025,Asia
+HKG,Hong Kong,1972,11.650976,Asia
+HKG,Hong Kong,1973,12.742074,Asia
+HKG,Hong Kong,1974,12.584008,Asia
+HKG,Hong Kong,1975,12.200911,Asia
+HKG,Hong Kong,1976,13.432411,Asia
+HKG,Hong Kong,1977,14.324502,Asia
+HKG,Hong Kong,1978,15.028026,Asia
+HKG,Hong Kong,1979,16.468327,Asia
+HKG,Hong Kong,1980,16.987736,Asia
+HKG,Hong Kong,1981,17.027994,Asia
+HKG,Hong Kong,1982,17.553545,Asia
+HKG,Hong Kong,1983,18.555834,Asia
+HKG,Hong Kong,1984,19.755888,Asia
+HKG,Hong Kong,1985,19.121313,Asia
+HKG,Hong Kong,1986,21.130342,Asia
+HKG,Hong Kong,1987,24.433487,Asia
+HKG,Hong Kong,1988,24.47147,Asia
+HKG,Hong Kong,1989,26.892668,Asia
+HKG,Hong Kong,1990,30.08892,Asia
+HKG,Hong Kong,1991,31.044765,Asia
+HKG,Hong Kong,1992,35.249393,Asia
+HKG,Hong Kong,1993,36.32831,Asia
+HKG,Hong Kong,1994,36.923283,Asia
+HKG,Hong Kong,1995,38.503506,Asia
+HKG,Hong Kong,1996,38.27425,Asia
+HKG,Hong Kong,1997,38.6659,Asia
+HKG,Hong Kong,1998,36.353676,Asia
+HKG,Hong Kong,1999,36.439953,Asia
+HKG,Hong Kong,2000,39.117367,Asia
+HKG,Hong Kong,2001,40.923954,Asia
+HKG,Hong Kong,2002,42.99499,Asia
+HKG,Hong Kong,2003,44.95894,Asia
+HKG,Hong Kong,2004,50.00593,Asia
+HKG,Hong Kong,2005,52.222424,Asia
+HKG,Hong Kong,2006,48.138252,Asia
+HKG,Hong Kong,2007,49.574165,Asia
+HKG,Hong Kong,2008,48.996628,Asia
+HKG,Hong Kong,2009,44.87837,Asia
+HKG,Hong Kong,2010,47.956963,Asia
+HKG,Hong Kong,2011,51.55522,Asia
+HKG,Hong Kong,2012,53.542377,Asia
+HKG,Hong Kong,2013,58.722065,Asia
+HKG,Hong Kong,2014,52.201286,Asia
+HKG,Hong Kong,2015,44.90758,Asia
+HKG,Hong Kong,2016,44.55309,Asia
+HKG,Hong Kong,2017,44.372982,Asia
+HKG,Hong Kong,2018,49.2496,Asia
+HKG,Hong Kong,2019,49.118412,Asia
+HUN,Hungary,1980,10.902857,Europe
+HUN,Hungary,1981,11.121633,Europe
+HUN,Hungary,1982,11.780672,Europe
+HUN,Hungary,1983,11.836755,Europe
+HUN,Hungary,1984,12.418221,Europe
+HUN,Hungary,1985,12.585481,Europe
+HUN,Hungary,1986,13.288739,Europe
+HUN,Hungary,1987,13.991702,Europe
+HUN,Hungary,1988,14.084562,Europe
+HUN,Hungary,1989,14.736718,Europe
+HUN,Hungary,1990,15.225895,Europe
+HUN,Hungary,1991,14.861748,Europe
+HUN,Hungary,1992,16.638283,Europe
+HUN,Hungary,1993,18.909113,Europe
+HUN,Hungary,1994,19.135939,Europe
+HUN,Hungary,1995,19.703987,Europe
+HUN,Hungary,1996,20.291533,Europe
+HUN,Hungary,1997,19.881853,Europe
+HUN,Hungary,1998,19.863832,Europe
+HUN,Hungary,1999,19.768736,Europe
+HUN,Hungary,2000,21.24833,Europe
+HUN,Hungary,2001,22.846094,Europe
+HUN,Hungary,2002,24.288334,Europe
+HUN,Hungary,2003,25.020475,Europe
+HUN,Hungary,2004,24.977934,Europe
+HUN,Hungary,2005,28.270016,Europe
+HUN,Hungary,2006,28.380608,Europe
+HUN,Hungary,2007,29.219303,Europe
+HUN,Hungary,2008,32.15439,Europe
+HUN,Hungary,2009,32.217777,Europe
+HUN,Hungary,2010,34.13525,Europe
+HUN,Hungary,2011,35.106853,Europe
+HUN,Hungary,2012,34.620945,Europe
+HUN,Hungary,2013,34.357777,Europe
+HUN,Hungary,2014,33.291115,Europe
+HUN,Hungary,2015,33.037334,Europe
+HUN,Hungary,2016,31.614153,Europe
+HUN,Hungary,2017,33.0558,Europe
+HUN,Hungary,2018,33.815914,Europe
+HUN,Hungary,2019,34.83344,Europe
+ISL,Iceland,1964,18.141075,Europe
+ISL,Iceland,1965,19.184896,Europe
+ISL,Iceland,1966,20.136305,Europe
+ISL,Iceland,1967,19.872221,Europe
+ISL,Iceland,1968,18.565561,Europe
+ISL,Iceland,1969,19.609669,Europe
+ISL,Iceland,1970,20.465137,Europe
+ISL,Iceland,1971,23.76881,Europe
+ISL,Iceland,1972,23.276733,Europe
+ISL,Iceland,1973,25.553173,Europe
+ISL,Iceland,1974,26.895184,Europe
+ISL,Iceland,1975,26.904255,Europe
+ISL,Iceland,1976,26.417429,Europe
+ISL,Iceland,1977,30.380062,Europe
+ISL,Iceland,1978,31.592281,Europe
+ISL,Iceland,1979,33.072083,Europe
+ISL,Iceland,1980,34.25886,Europe
+ISL,Iceland,1981,34.399452,Europe
+ISL,Iceland,1982,34.675175,Europe
+ISL,Iceland,1983,31.150745,Europe
+ISL,Iceland,1984,33.781956,Europe
+ISL,Iceland,1985,32.1699,Europe
+ISL,Iceland,1986,33.979893,Europe
+ISL,Iceland,1987,36.013073,Europe
+ISL,Iceland,1988,38.36516,Europe
+ISL,Iceland,1989,37.30818,Europe
+ISL,Iceland,1990,37.674282,Europe
+ISL,Iceland,1991,38.367603,Europe
+ISL,Iceland,1992,36.88827,Europe
+ISL,Iceland,1993,37.167595,Europe
+ISL,Iceland,1994,38.65729,Europe
+ISL,Iceland,1995,37.698425,Europe
+ISL,Iceland,1996,38.019096,Europe
+ISL,Iceland,1997,41.168324,Europe
+ISL,Iceland,1998,41.894547,Europe
+ISL,Iceland,1999,43.916428,Europe
+ISL,Iceland,2000,41.566692,Europe
+ISL,Iceland,2001,42.906994,Europe
+ISL,Iceland,2002,44.33425,Europe
+ISL,Iceland,2003,45.291386,Europe
+ISL,Iceland,2004,47.687218,Europe
+ISL,Iceland,2005,50.887196,Europe
+ISL,Iceland,2006,47.754246,Europe
+ISL,Iceland,2007,49.233704,Europe
+ISL,Iceland,2008,62.21874,Europe
+ISL,Iceland,2009,60.839947,Europe
+ISL,Iceland,2010,56.17161,Europe
+ISL,Iceland,2011,56.308052,Europe
+ISL,Iceland,2012,57.967678,Europe
+ISL,Iceland,2013,56.47683,Europe
+ISL,Iceland,2014,56.82377,Europe
+ISL,Iceland,2015,58.148865,Europe
+ISL,Iceland,2016,58.311256,Europe
+ISL,Iceland,2017,59.125015,Europe
+ISL,Iceland,2018,60.209545,Europe
+ISL,Iceland,2019,64.24422,Europe
+IND,India,1970,1.9620081,Asia
+IND,India,1971,1.9834533,Asia
+IND,India,1972,1.9902271,Asia
+IND,India,1973,2.048084,Asia
+IND,India,1974,1.9792039,Asia
+IND,India,1975,2.1095817,Asia
+IND,India,1976,2.0281641,Asia
+IND,India,1977,1.9587873,Asia
+IND,India,1978,1.8642068,Asia
+IND,India,1979,1.6844178,Asia
+IND,India,1980,1.67654,Asia
+IND,India,1981,1.6167982,Asia
+IND,India,1982,1.5362915,Asia
+IND,India,1983,1.5375211,Asia
+IND,India,1984,1.4994639,Asia
+IND,India,1985,1.4836581,Asia
+IND,India,1986,1.5037689,Asia
+IND,India,1987,1.5401372,Asia
+IND,India,1988,1.6158221,Asia
+IND,India,1989,1.682339,Asia
+IND,India,1990,1.7396741,Asia
+IND,India,1991,1.7505404,Asia
+IND,India,1992,1.8028334,Asia
+IND,India,1993,1.8518116,Asia
+IND,India,1994,1.9338377,Asia
+IND,India,1995,2.0703006,Asia
+IND,India,1996,2.2112768,Asia
+IND,India,1997,2.286061,Asia
+IND,India,1998,2.450466,Asia
+IND,India,1999,2.5882545,Asia
+IND,India,2000,2.6448793,Asia
+IND,India,2001,2.7175374,Asia
+IND,India,2002,2.7897158,Asia
+IND,India,2003,2.9582071,Asia
+IND,India,2004,3.1424246,Asia
+IND,India,2005,3.5561693,Asia
+IND,India,2006,3.982323,Asia
+IND,India,2007,4.450151,Asia
+IND,India,2008,4.6965976,Asia
+IND,India,2009,4.9839163,Asia
+IND,India,2010,5.6992044,Asia
+IND,India,2011,6.130244,Asia
+IND,India,2012,6.6602244,Asia
+IND,India,2013,6.5481606,Asia
+IND,India,2014,6.832327,Asia
+IND,India,2015,7.217728,Asia
+IND,India,2016,7.6099877,Asia
+IND,India,2017,8.009788,Asia
+IND,India,2018,8.536673,Asia
+IND,India,2019,8.680879,Asia
+IDN,Indonesia,1970,2.3521268,Asia
+IDN,Indonesia,1971,2.4697526,Asia
+IDN,Indonesia,1972,2.6786692,Asia
+IDN,Indonesia,1973,2.8452399,Asia
+IDN,Indonesia,1974,3.0196362,Asia
+IDN,Indonesia,1975,3.1843622,Asia
+IDN,Indonesia,1976,3.4578304,Asia
+IDN,Indonesia,1977,3.669632,Asia
+IDN,Indonesia,1978,3.6136928,Asia
+IDN,Indonesia,1979,3.7664351,Asia
+IDN,Indonesia,1980,3.906127,Asia
+IDN,Indonesia,1981,3.9127767,Asia
+IDN,Indonesia,1982,3.9213433,Asia
+IDN,Indonesia,1983,3.9616506,Asia
+IDN,Indonesia,1984,3.962322,Asia
+IDN,Indonesia,1985,3.8789003,Asia
+IDN,Indonesia,1986,4.07864,Asia
+IDN,Indonesia,1987,4.053773,Asia
+IDN,Indonesia,1988,3.9568906,Asia
+IDN,Indonesia,1989,4.0882397,Asia
+IDN,Indonesia,1990,4.448761,Asia
+IDN,Indonesia,1991,4.7533717,Asia
+IDN,Indonesia,1992,5.0228434,Asia
+IDN,Indonesia,1993,5.3013487,Asia
+IDN,Indonesia,1994,5.382208,Asia
+IDN,Indonesia,1995,5.7512407,Asia
+IDN,Indonesia,1996,6.1446958,Asia
+IDN,Indonesia,1997,6.1283298,Asia
+IDN,Indonesia,1998,4.7448893,Asia
+IDN,Indonesia,1999,4.656925,Asia
+IDN,Indonesia,2000,4.382114,Asia
+IDN,Indonesia,2001,4.385334,Asia
+IDN,Indonesia,2002,4.4666085,Asia
+IDN,Indonesia,2003,4.4112577,Asia
+IDN,Indonesia,2004,4.7213187,Asia
+IDN,Indonesia,2005,5.1756444,Asia
+IDN,Indonesia,2006,5.662398,Asia
+IDN,Indonesia,2007,6.0105486,Asia
+IDN,Indonesia,2008,7.06172,Asia
+IDN,Indonesia,2009,7.597824,Asia
+IDN,Indonesia,2010,8.849966,Asia
+IDN,Indonesia,2011,10.731469,Asia
+IDN,Indonesia,2012,11.094654,Asia
+IDN,Indonesia,2013,11.260451,Asia
+IDN,Indonesia,2014,11.359391,Asia
+IDN,Indonesia,2015,11.100419,Asia
+IDN,Indonesia,2016,11.205149,Asia
+IDN,Indonesia,2017,11.354788,Asia
+IDN,Indonesia,2018,11.730033,Asia
+IDN,Indonesia,2019,11.843272,Asia
+IRL,Ireland,1950,5.2342935,Europe
+IRL,Ireland,1951,5.378119,Europe
+IRL,Ireland,1952,5.675927,Europe
+IRL,Ireland,1953,5.894644,Europe
+IRL,Ireland,1954,6.0741744,Europe
+IRL,Ireland,1955,6.350703,Europe
+IRL,Ireland,1956,6.411081,Europe
+IRL,Ireland,1957,6.654661,Europe
+IRL,Ireland,1958,6.6692576,Europe
+IRL,Ireland,1959,7.029379,Europe
+IRL,Ireland,1960,7.4512405,Europe
+IRL,Ireland,1961,7.8206625,Europe
+IRL,Ireland,1962,7.9306865,Europe
+IRL,Ireland,1963,8.240917,Europe
+IRL,Ireland,1964,8.439605,Europe
+IRL,Ireland,1965,8.567076,Europe
+IRL,Ireland,1966,8.7227335,Europe
+IRL,Ireland,1967,9.282924,Europe
+IRL,Ireland,1968,9.957421,Europe
+IRL,Ireland,1969,10.400439,Europe
+IRL,Ireland,1970,10.674877,Europe
+IRL,Ireland,1971,10.967216,Europe
+IRL,Ireland,1972,12.080991,Europe
+IRL,Ireland,1973,12.673017,Europe
+IRL,Ireland,1974,13.019011,Europe
+IRL,Ireland,1975,13.818489,Europe
+IRL,Ireland,1976,14.5897,Europe
+IRL,Ireland,1977,15.715906,Europe
+IRL,Ireland,1978,17.13532,Europe
+IRL,Ireland,1979,17.37598,Europe
+IRL,Ireland,1980,18.61795,Europe
+IRL,Ireland,1981,19.287746,Europe
+IRL,Ireland,1982,19.674534,Europe
+IRL,Ireland,1983,19.558456,Europe
+IRL,Ireland,1984,20.572546,Europe
+IRL,Ireland,1985,20.62267,Europe
+IRL,Ireland,1986,21.63599,Europe
+IRL,Ireland,1987,23.224161,Europe
+IRL,Ireland,1988,24.035942,Europe
+IRL,Ireland,1989,25.458107,Europe
+IRL,Ireland,1990,26.439726,Europe
+IRL,Ireland,1991,27.536348,Europe
+IRL,Ireland,1992,30.136293,Europe
+IRL,Ireland,1993,31.908913,Europe
+IRL,Ireland,1994,32.412807,Europe
+IRL,Ireland,1995,35.50946,Europe
+IRL,Ireland,1996,37.13154,Europe
+IRL,Ireland,1997,40.08107,Europe
+IRL,Ireland,1998,41.376198,Europe
+IRL,Ireland,1999,42.902386,Europe
+IRL,Ireland,2000,46.069473,Europe
+IRL,Ireland,2001,48.288296,Europe
+IRL,Ireland,2002,53.845882,Europe
+IRL,Ireland,2003,58.170265,Europe
+IRL,Ireland,2004,59.9059,Europe
+IRL,Ireland,2005,62.796043,Europe
+IRL,Ireland,2006,62.327534,Europe
+IRL,Ireland,2007,66.14504,Europe
+IRL,Ireland,2008,64.22194,Europe
+IRL,Ireland,2009,67.34492,Europe
+IRL,Ireland,2010,74.460724,Europe
+IRL,Ireland,2011,76.79019,Europe
+IRL,Ireland,2012,78.489105,Europe
+IRL,Ireland,2013,76.15627,Europe
+IRL,Ireland,2014,79.81215,Europe
+IRL,Ireland,2015,100.3916,Europe
+IRL,Ireland,2016,105.04378,Europe
+IRL,Ireland,2017,109.488304,Europe
+IRL,Ireland,2018,112.76292,Europe
+IRL,Ireland,2019,125.09254,Europe
+ISR,Israel,1981,25.199104,Asia
+ISR,Israel,1982,25.77843,Asia
+ISR,Israel,1983,26.18268,Asia
+ISR,Israel,1984,26.192846,Asia
+ISR,Israel,1985,26.883018,Asia
+ISR,Israel,1986,28.37297,Asia
+ISR,Israel,1987,30.024689,Asia
+ISR,Israel,1988,30.745424,Asia
+ISR,Israel,1989,29.520636,Asia
+ISR,Israel,1990,31.83879,Asia
+ISR,Israel,1991,33.014473,Asia
+ISR,Israel,1992,33.459423,Asia
+ISR,Israel,1993,33.239883,Asia
+ISR,Israel,1994,32.52806,Asia
+ISR,Israel,1995,33.056637,Asia
+ISR,Israel,1996,33.89172,Asia
+ISR,Israel,1997,34.920345,Asia
+ISR,Israel,1998,36.30148,Asia
+ISR,Israel,1999,37.191696,Asia
+ISR,Israel,2000,39.284286,Asia
+ISR,Israel,2001,40.261395,Asia
+ISR,Israel,2002,39.768715,Asia
+ISR,Israel,2003,38.233845,Asia
+ISR,Israel,2004,38.01697,Asia
+ISR,Israel,2005,37.394157,Asia
+ISR,Israel,2006,36.933624,Asia
+ISR,Israel,2007,35.61613,Asia
+ISR,Israel,2008,34.43854,Asia
+ISR,Israel,2009,35.472633,Asia
+ISR,Israel,2010,36.304157,Asia
+ISR,Israel,2011,37.192833,Asia
+ISR,Israel,2012,38.331303,Asia
+ISR,Israel,2013,39.498203,Asia
+ISR,Israel,2014,39.54524,Asia
+ISR,Israel,2015,40.402554,Asia
+ISR,Israel,2016,41.430664,Asia
+ISR,Israel,2017,41.02011,Asia
+ISR,Israel,2018,40.3151,Asia
+ISR,Israel,2019,40.870785,Asia
+ITA,Italy,1950,5.0973253,Europe
+ITA,Italy,1951,5.529937,Europe
+ITA,Italy,1952,5.6422157,Europe
+ITA,Italy,1953,5.9650664,Europe
+ITA,Italy,1954,6.121146,Europe
+ITA,Italy,1955,6.520286,Europe
+ITA,Italy,1956,6.725706,Europe
+ITA,Italy,1957,6.957694,Europe
+ITA,Italy,1958,7.218494,Europe
+ITA,Italy,1959,7.7035327,Europe
+ITA,Italy,1960,8.376799,Europe
+ITA,Italy,1961,9.090406,Europe
+ITA,Italy,1962,9.854922,Europe
+ITA,Italy,1963,10.556045,Europe
+ITA,Italy,1964,10.92292,Europe
+ITA,Italy,1965,11.839702,Europe
+ITA,Italy,1966,12.59563,Europe
+ITA,Italy,1967,13.180837,Europe
+ITA,Italy,1968,14.087964,Europe
+ITA,Italy,1969,15.063651,Europe
+ITA,Italy,1970,17.194502,Europe
+ITA,Italy,1971,18.077612,Europe
+ITA,Italy,1972,19.214191,Europe
+ITA,Italy,1973,20.785011,Europe
+ITA,Italy,1974,22.29254,Europe
+ITA,Italy,1975,22.205618,Europe
+ITA,Italy,1976,24.217577,Europe
+ITA,Italy,1977,25.867733,Europe
+ITA,Italy,1978,27.44275,Europe
+ITA,Italy,1979,29.704462,Europe
+ITA,Italy,1980,31.238718,Europe
+ITA,Italy,1981,30.652529,Europe
+ITA,Italy,1982,29.897789,Europe
+ITA,Italy,1983,29.369656,Europe
+ITA,Italy,1984,29.914227,Europe
+ITA,Italy,1985,29.993383,Europe
+ITA,Italy,1986,31.567087,Europe
+ITA,Italy,1987,32.817375,Europe
+ITA,Italy,1988,33.76746,Europe
+ITA,Italy,1989,35.157635,Europe
+ITA,Italy,1990,36.40853,Europe
+ITA,Italy,1991,37.00646,Europe
+ITA,Italy,1992,37.897182,Europe
+ITA,Italy,1993,38.85644,Europe
+ITA,Italy,1994,40.806324,Europe
+ITA,Italy,1995,42.764477,Europe
+ITA,Italy,1996,43.20181,Europe
+ITA,Italy,1997,45.140743,Europe
+ITA,Italy,1998,46.576984,Europe
+ITA,Italy,1999,47.538704,Europe
+ITA,Italy,2000,48.2648,Europe
+ITA,Italy,2001,47.548306,Europe
+ITA,Italy,2002,46.23609,Europe
+ITA,Italy,2003,45.945816,Europe
+ITA,Italy,2004,45.94257,Europe
+ITA,Italy,2005,47.60363,Europe
+ITA,Italy,2006,48.333866,Europe
+ITA,Italy,2007,49.925472,Europe
+ITA,Italy,2008,51.43633,Europe
+ITA,Italy,2009,51.19159,Europe
+ITA,Italy,2010,52.05406,Europe
+ITA,Italy,2011,53.21145,Europe
+ITA,Italy,2012,53.286415,Europe
+ITA,Italy,2013,53.77871,Europe
+ITA,Italy,2014,53.765285,Europe
+ITA,Italy,2015,53.381702,Europe
+ITA,Italy,2016,54.944733,Europe
+ITA,Italy,2017,56.27207,Europe
+ITA,Italy,2018,56.152653,Europe
+ITA,Italy,2019,56.090836,Europe
+JAM,Jamaica,1986,6.569074,North America
+JAM,Jamaica,1987,6.9643955,North America
+JAM,Jamaica,1988,7.0113463,North America
+JAM,Jamaica,1989,6.8468513,North America
+JAM,Jamaica,1990,7.360053,North America
+JAM,Jamaica,1991,7.0897293,North America
+JAM,Jamaica,1992,7.4436655,North America
+JAM,Jamaica,1993,8.020387,North America
+JAM,Jamaica,1994,7.858575,North America
+JAM,Jamaica,1995,7.676884,North America
+JAM,Jamaica,1996,7.796191,North America
+JAM,Jamaica,1997,7.8006964,North America
+JAM,Jamaica,1998,7.818909,North America
+JAM,Jamaica,1999,8.219032,North America
+JAM,Jamaica,2000,8.493388,North America
+JAM,Jamaica,2001,8.421036,North America
+JAM,Jamaica,2002,7.7089267,North America
+JPN,Japan,1950,2.9542785,Asia
+JPN,Japan,1951,3.2141197,Asia
+JPN,Japan,1952,3.4887261,Asia
+JPN,Japan,1953,3.5962312,Asia
+JPN,Japan,1954,3.682381,Asia
+JPN,Japan,1955,3.8038588,Asia
+JPN,Japan,1956,3.887944,Asia
+JPN,Japan,1957,4.009947,Asia
+JPN,Japan,1958,4.2339463,Asia
+JPN,Japan,1959,4.5437784,Asia
+JPN,Japan,1960,4.9748535,Asia
+JPN,Japan,1961,5.437169,Asia
+JPN,Japan,1962,5.9444823,Asia
+JPN,Japan,1963,6.4009037,Asia
+JPN,Japan,1964,7.006454,Asia
+JPN,Japan,1965,7.3866434,Asia
+JPN,Japan,1966,7.951002,Asia
+JPN,Japan,1967,8.553841,Asia
+JPN,Japan,1968,9.457534,Asia
+JPN,Japan,1969,10.59508,Asia
+JPN,Japan,1970,11.621735,Asia
+JPN,Japan,1971,12.264989,Asia
+JPN,Japan,1972,13.288109,Asia
+JPN,Japan,1973,14.12886,Asia
+JPN,Japan,1974,14.498506,Asia
+JPN,Japan,1975,15.430777,Asia
+JPN,Japan,1976,16.110264,Asia
+JPN,Japan,1977,16.94812,Asia
+JPN,Japan,1978,18.015442,Asia
+JPN,Japan,1979,18.977034,Asia
+JPN,Japan,1980,19.919168,Asia
+JPN,Japan,1981,19.794418,Asia
+JPN,Japan,1982,19.3592,Asia
+JPN,Japan,1983,18.713303,Asia
+JPN,Japan,1984,18.601988,Asia
+JPN,Japan,1985,19.199963,Asia
+JPN,Japan,1986,20.806864,Asia
+JPN,Japan,1987,22.112892,Asia
+JPN,Japan,1988,24.090681,Asia
+JPN,Japan,1989,25.69327,Asia
+JPN,Japan,1990,27.704779,Asia
+JPN,Japan,1991,29.11402,Asia
+JPN,Japan,1992,30.590227,Asia
+JPN,Japan,1993,31.973555,Asia
+JPN,Japan,1994,33.269157,Asia
+JPN,Japan,1995,34.962364,Asia
+JPN,Japan,1996,36.679893,Asia
+JPN,Japan,1997,37.125977,Asia
+JPN,Japan,1998,37.549026,Asia
+JPN,Japan,1999,38.38752,Asia
+JPN,Japan,2000,39.46904,Asia
+JPN,Japan,2001,39.568127,Asia
+JPN,Japan,2002,40.303066,Asia
+JPN,Japan,2003,40.888096,Asia
+JPN,Japan,2004,41.53163,Asia
+JPN,Japan,2005,42.49986,Asia
+JPN,Japan,2006,42.47058,Asia
+JPN,Japan,2007,43.1645,Asia
+JPN,Japan,2008,42.903145,Asia
+JPN,Japan,2009,42.11367,Asia
+JPN,Japan,2010,43.54393,Asia
+JPN,Japan,2011,42.942596,Asia
+JPN,Japan,2012,42.834938,Asia
+JPN,Japan,2013,43.479416,Asia
+JPN,Japan,2014,42.72143,Asia
+JPN,Japan,2015,43.800053,Asia
+JPN,Japan,2016,42.68171,Asia
+JPN,Japan,2017,42.422935,Asia
+JPN,Japan,2018,41.73783,Asia
+JPN,Japan,2019,42.56412,Asia
+KOR,South Korea,1953,1.5332465,Asia
+KOR,South Korea,1954,1.5661155,Asia
+KOR,South Korea,1955,1.6520659,Asia
+KOR,South Korea,1956,1.6478194,Asia
+KOR,South Korea,1957,1.7407553,Asia
+KOR,South Korea,1958,1.7448703,Asia
+KOR,South Korea,1959,1.7153504,Asia
+KOR,South Korea,1960,1.668106,Asia
+KOR,South Korea,1961,1.6948746,Asia
+KOR,South Korea,1962,1.6225559,Asia
+KOR,South Korea,1963,1.7192254,Asia
+KOR,South Korea,1964,1.9007819,Asia
+KOR,South Korea,1965,1.8195035,Asia
+KOR,South Korea,1966,2.0271392,Asia
+KOR,South Korea,1967,2.0386188,Asia
+KOR,South Korea,1968,2.1282914,Asia
+KOR,South Korea,1969,2.312431,Asia
+KOR,South Korea,1970,2.5252032,Asia
+KOR,South Korea,1971,2.8847992,Asia
+KOR,South Korea,1972,3.1233468,Asia
+KOR,South Korea,1973,3.6231813,Asia
+KOR,South Korea,1974,4.1419706,Asia
+KOR,South Korea,1975,4.675133,Asia
+KOR,South Korea,1976,4.8103185,Asia
+KOR,South Korea,1977,5.1032534,Asia
+KOR,South Korea,1978,5.353077,Asia
+KOR,South Korea,1979,5.563102,Asia
+KOR,South Korea,1980,5.244062,Asia
+KOR,South Korea,1981,5.425911,Asia
+KOR,South Korea,1982,5.6521635,Asia
+KOR,South Korea,1983,6.266925,Asia
+KOR,South Korea,1984,6.921118,Asia
+KOR,South Korea,1985,7.040193,Asia
+KOR,South Korea,1986,7.922647,Asia
+KOR,South Korea,1987,8.813795,Asia
+KOR,South Korea,1988,9.890169,Asia
+KOR,South Korea,1989,10.91254,Asia
+KOR,South Korea,1990,12.182273,Asia
+KOR,South Korea,1991,13.509274,Asia
+KOR,South Korea,1992,14.439435,Asia
+KOR,South Korea,1993,15.54809,Asia
+KOR,South Korea,1994,17.106663,Asia
+KOR,South Korea,1995,18.621534,Asia
+KOR,South Korea,1996,20.472479,Asia
+KOR,South Korea,1997,20.179276,Asia
+KOR,South Korea,1998,19.581148,Asia
+KOR,South Korea,1999,21.307796,Asia
+KOR,South Korea,2000,21.869509,Asia
+KOR,South Korea,2001,22.238785,Asia
+KOR,South Korea,2002,23.674788,Asia
+KOR,South Korea,2003,25.069714,Asia
+KOR,South Korea,2004,26.519978,Asia
+KOR,South Korea,2005,28.836796,Asia
+KOR,South Korea,2006,29.512959,Asia
+KOR,South Korea,2007,31.401978,Asia
+KOR,South Korea,2008,32.576744,Asia
+KOR,South Korea,2009,32.299507,Asia
+KOR,South Korea,2010,34.401585,Asia
+KOR,South Korea,2011,34.31749,Asia
+KOR,South Korea,2012,34.104088,Asia
+KOR,South Korea,2013,33.014214,Asia
+KOR,South Korea,2014,34.302982,Asia
+KOR,South Korea,2015,35.88307,Asia
+KOR,South Korea,2016,36.87733,Asia
+KOR,South Korea,2017,39.083927,Asia
+KOR,South Korea,2018,40.092373,Asia
+KOR,South Korea,2019,40.768528,Asia
+LVA,Latvia,1995,12.985339,Europe
+LVA,Latvia,1996,12.997838,Europe
+LVA,Latvia,1997,12.715266,Europe
+LVA,Latvia,1998,13.3560705,Europe
+LVA,Latvia,1999,14.04626,Europe
+LVA,Latvia,2000,15.379379,Europe
+LVA,Latvia,2001,16.111881,Europe
+LVA,Latvia,2002,16.826601,Europe
+LVA,Latvia,2003,17.188547,Europe
+LVA,Latvia,2004,18.271309,Europe
+LVA,Latvia,2005,20.249609,Europe
+LVA,Latvia,2006,20.295149,Europe
+LVA,Latvia,2007,21.64383,Europe
+LVA,Latvia,2008,21.668264,Europe
+LVA,Latvia,2009,22.450373,Europe
+LVA,Latvia,2010,24.840263,Europe
+LVA,Latvia,2011,26.467049,Europe
+LVA,Latvia,2012,27.315512,Europe
+LVA,Latvia,2013,26.652649,Europe
+LVA,Latvia,2014,27.709826,Europe
+LVA,Latvia,2015,28.915426,Europe
+LVA,Latvia,2016,29.639683,Europe
+LVA,Latvia,2017,31.568642,Europe
+LVA,Latvia,2018,32.110943,Europe
+LVA,Latvia,2019,33.538006,Europe
+LTU,Lithuania,1995,13.423672,Europe
+LTU,Lithuania,1996,13.824675,Europe
+LTU,Lithuania,1997,14.269204,Europe
+LTU,Lithuania,1998,14.452004,Europe
+LTU,Lithuania,1999,15.718054,Europe
+LTU,Lithuania,2000,16.39442,Europe
+LTU,Lithuania,2001,18.375858,Europe
+LTU,Lithuania,2002,18.405815,Europe
+LTU,Lithuania,2003,20.024971,Europe
+LTU,Lithuania,2004,19.407793,Europe
+LTU,Lithuania,2005,21.624893,Europe
+LTU,Lithuania,2006,23.029945,Europe
+LTU,Lithuania,2007,24.129486,Europe
+LTU,Lithuania,2008,25.523405,Europe
+LTU,Lithuania,2009,24.81404,Europe
+LTU,Lithuania,2010,27.068996,Europe
+LTU,Lithuania,2011,30.08933,Europe
+LTU,Lithuania,2012,31.269558,Europe
+LTU,Lithuania,2013,31.211437,Europe
+LTU,Lithuania,2014,31.880714,Europe
+LTU,Lithuania,2015,31.018784,Europe
+LTU,Lithuania,2016,30.58074,Europe
+LTU,Lithuania,2017,32.991947,Europe
+LTU,Lithuania,2018,33.26906,Europe
+LTU,Lithuania,2019,34.452484,Europe
+LUX,Luxembourg,1970,30.716282,Europe
+LUX,Luxembourg,1971,28.825438,Europe
+LUX,Luxembourg,1972,30.601368,Europe
+LUX,Luxembourg,1973,34.103073,Europe
+LUX,Luxembourg,1974,36.01707,Europe
+LUX,Luxembourg,1975,31.312027,Europe
+LUX,Luxembourg,1976,33.031868,Europe
+LUX,Luxembourg,1977,33.72716,Europe
+LUX,Luxembourg,1978,36.06394,Europe
+LUX,Luxembourg,1979,37.512104,Europe
+LUX,Luxembourg,1980,38.17537,Europe
+LUX,Luxembourg,1981,37.159145,Europe
+LUX,Luxembourg,1982,37.68731,Europe
+LUX,Luxembourg,1983,37.759834,Europe
+LUX,Luxembourg,1984,37.386055,Europe
+LUX,Luxembourg,1985,36.574913,Europe
+LUX,Luxembourg,1986,41.333984,Europe
+LUX,Luxembourg,1987,41.482628,Europe
+LUX,Luxembourg,1988,44.091885,Europe
+LUX,Luxembourg,1989,47.893295,Europe
+LUX,Luxembourg,1990,48.39339,Europe
+LUX,Luxembourg,1991,52.240227,Europe
+LUX,Luxembourg,1992,52.31414,Europe
+LUX,Luxembourg,1993,54.948154,Europe
+LUX,Luxembourg,1994,57.205894,Europe
+LUX,Luxembourg,1995,55.88858,Europe
+LUX,Luxembourg,1996,55.281155,Europe
+LUX,Luxembourg,1997,58.60165,Europe
+LUX,Luxembourg,1998,61.02755,Europe
+LUX,Luxembourg,1999,65.29109,Europe
+LUX,Luxembourg,2000,68.86972,Europe
+LUX,Luxembourg,2001,62.06307,Europe
+LUX,Luxembourg,2002,59.05566,Europe
+LUX,Luxembourg,2003,56.653072,Europe
+LUX,Luxembourg,2004,51.67782,Europe
+LUX,Luxembourg,2005,64.665146,Europe
+LUX,Luxembourg,2006,61.935383,Europe
+LUX,Luxembourg,2007,62.911896,Europe
+LUX,Luxembourg,2008,59.389694,Europe
+LUX,Luxembourg,2009,56.49086,Europe
+LUX,Luxembourg,2010,63.204834,Europe
+LUX,Luxembourg,2011,61.924755,Europe
+LUX,Luxembourg,2012,64.0331,Europe
+LUX,Luxembourg,2013,61.830307,Europe
+LUX,Luxembourg,2014,71.58993,Europe
+LUX,Luxembourg,2015,76.55745,Europe
+LUX,Luxembourg,2016,80.007385,Europe
+LUX,Luxembourg,2017,83.16536,Europe
+LUX,Luxembourg,2018,79.94896,Europe
+LUX,Luxembourg,2019,80.32644,Europe
+MYS,Malaysia,1970,5.2937045,Asia
+MYS,Malaysia,1971,6.261472,Asia
+MYS,Malaysia,1972,6.5417657,Asia
+MYS,Malaysia,1973,7.150495,Asia
+MYS,Malaysia,1974,7.6739383,Asia
+MYS,Malaysia,1975,7.207733,Asia
+MYS,Malaysia,1976,7.777414,Asia
+MYS,Malaysia,1977,8.145012,Asia
+MYS,Malaysia,1978,8.404568,Asia
+MYS,Malaysia,1979,8.814994,Asia
+MYS,Malaysia,1980,9.33851,Asia
+MYS,Malaysia,1981,9.436366,Asia
+MYS,Malaysia,1982,9.71564,Asia
+MYS,Malaysia,1983,9.9348135,Asia
+MYS,Malaysia,1984,10.503425,Asia
+MYS,Malaysia,1985,9.611052,Asia
+MYS,Malaysia,1986,8.741961,Asia
+MYS,Malaysia,1987,9.061251,Asia
+MYS,Malaysia,1988,9.595155,Asia
+MYS,Malaysia,1989,10.225831,Asia
+MYS,Malaysia,1990,10.988868,Asia
+MYS,Malaysia,1991,11.859501,Asia
+MYS,Malaysia,1992,12.286084,Asia
+MYS,Malaysia,1993,12.821822,Asia
+MYS,Malaysia,1994,13.659403,Asia
+MYS,Malaysia,1995,14.970428,Asia
+MYS,Malaysia,1996,14.883565,Asia
+MYS,Malaysia,1997,15.305839,Asia
+MYS,Malaysia,1998,13.057715,Asia
+MYS,Malaysia,1999,13.360628,Asia
+MYS,Malaysia,2000,14.736472,Asia
+MYS,Malaysia,2001,14.409602,Asia
+MYS,Malaysia,2002,14.822029,Asia
+MYS,Malaysia,2003,15.311852,Asia
+MYS,Malaysia,2004,16.641,Asia
+MYS,Malaysia,2005,18.53259,Asia
+MYS,Malaysia,2006,18.568468,Asia
+MYS,Malaysia,2007,20.199362,Asia
+MYS,Malaysia,2008,22.691992,Asia
+MYS,Malaysia,2009,20.84442,Asia
+MYS,Malaysia,2010,20.954391,Asia
+MYS,Malaysia,2011,22.940886,Asia
+MYS,Malaysia,2012,24.051357,Asia
+MYS,Malaysia,2013,24.076591,Asia
+MYS,Malaysia,2014,23.687654,Asia
+MYS,Malaysia,2015,23.080912,Asia
+MYS,Malaysia,2016,23.226147,Asia
+MYS,Malaysia,2017,23.654076,Asia
+MYS,Malaysia,2018,24.144674,Asia
+MYS,Malaysia,2019,24.75438,Asia
+MLT,Malta,1994,20.509079,Europe
+MLT,Malta,1995,19.842632,Europe
+MLT,Malta,1996,19.611084,Europe
+MLT,Malta,1997,22.516294,Europe
+MLT,Malta,1998,23.294172,Europe
+MLT,Malta,1999,24.528719,Europe
+MLT,Malta,2000,30.381235,Europe
+MLT,Malta,2001,27.799385,Europe
+MLT,Malta,2002,27.716108,Europe
+MLT,Malta,2003,29.634447,Europe
+MLT,Malta,2004,29.351349,Europe
+MLT,Malta,2005,31.79536,Europe
+MLT,Malta,2006,30.756136,Europe
+MLT,Malta,2007,31.78621,Europe
+MLT,Malta,2008,30.899437,Europe
+MLT,Malta,2009,30.773615,Europe
+MLT,Malta,2010,32.50011,Europe
+MLT,Malta,2011,34.37887,Europe
+MLT,Malta,2012,34.928337,Europe
+MLT,Malta,2013,33.386295,Europe
+MLT,Malta,2014,34.085976,Europe
+MLT,Malta,2015,39.66399,Europe
+MLT,Malta,2016,38.347702,Europe
+MLT,Malta,2017,39.21617,Europe
+MLT,Malta,2018,41.81593,Europe
+MLT,Malta,2019,40.627483,Europe
+MEX,Mexico,1950,7.838052,North America
+MEX,Mexico,1951,8.391885,North America
+MEX,Mexico,1952,8.648892,North America
+MEX,Mexico,1953,8.427345,North America
+MEX,Mexico,1954,9.25124,North America
+MEX,Mexico,1955,9.900326,North America
+MEX,Mexico,1956,10.4341,North America
+MEX,Mexico,1957,11.065927,North America
+MEX,Mexico,1958,11.462927,North America
+MEX,Mexico,1959,11.607597,North America
+MEX,Mexico,1960,12.327988,North America
+MEX,Mexico,1961,12.385888,North America
+MEX,Mexico,1962,12.567876,North America
+MEX,Mexico,1963,13.4100485,North America
+MEX,Mexico,1964,14.861192,North America
+MEX,Mexico,1965,15.270481,North America
+MEX,Mexico,1966,15.781029,North America
+MEX,Mexico,1967,16.20344,North America
+MEX,Mexico,1968,17.121988,North America
+MEX,Mexico,1969,17.381784,North America
+MEX,Mexico,1970,18.01936,North America
+MEX,Mexico,1971,17.871181,North America
+MEX,Mexico,1972,18.394958,North America
+MEX,Mexico,1973,18.927757,North America
+MEX,Mexico,1974,19.111128,North America
+MEX,Mexico,1975,19.025108,North America
+MEX,Mexico,1976,19.302427,North America
+MEX,Mexico,1977,19.276596,North America
+MEX,Mexico,1978,20.124495,North America
+MEX,Mexico,1979,21.008715,North America
+MEX,Mexico,1980,21.832298,North America
+MEX,Mexico,1981,22.78899,North America
+MEX,Mexico,1982,21.782488,North America
+MEX,Mexico,1983,20.35886,North America
+MEX,Mexico,1984,20.1233,North America
+MEX,Mexico,1985,19.252594,North America
+MEX,Mexico,1986,17.49425,North America
+MEX,Mexico,1987,17.130547,North America
+MEX,Mexico,1988,16.536968,North America
+MEX,Mexico,1989,16.522503,North America
+MEX,Mexico,1990,16.928875,North America
+MEX,Mexico,1991,17.094788,North America
+MEX,Mexico,1992,17.213825,North America
+MEX,Mexico,1993,17.013998,North America
+MEX,Mexico,1994,17.302423,North America
+MEX,Mexico,1995,16.148466,North America
+MEX,Mexico,1996,15.773345,North America
+MEX,Mexico,1997,16.18199,North America
+MEX,Mexico,1998,17.368303,North America
+MEX,Mexico,1999,16.686592,North America
+MEX,Mexico,2000,17.833534,North America
+MEX,Mexico,2001,17.659796,North America
+MEX,Mexico,2002,16.67666,North America
+MEX,Mexico,2003,16.991592,North America
+MEX,Mexico,2004,17.613306,North America
+MEX,Mexico,2005,18.715185,North America
+MEX,Mexico,2006,19.174133,North America
+MEX,Mexico,2007,19.612604,North America
+MEX,Mexico,2008,19.282133,North America
+MEX,Mexico,2009,19.709696,North America
+MEX,Mexico,2010,19.41408,North America
+MEX,Mexico,2011,21.060549,North America
+MEX,Mexico,2012,21.422895,North America
+MEX,Mexico,2013,21.144402,North America
+MEX,Mexico,2014,21.27103,North America
+MEX,Mexico,2015,20.835148,North America
+MEX,Mexico,2016,21.068047,North America
+MEX,Mexico,2017,21.020313,North America
+MEX,Mexico,2018,20.987122,North America
+MEX,Mexico,2019,20.339481,North America
+NLD,Netherlands,1950,10.710759,Europe
+NLD,Netherlands,1951,11.26351,Europe
+NLD,Netherlands,1952,11.670563,Europe
+NLD,Netherlands,1953,12.474285,Europe
+NLD,Netherlands,1954,12.956335,Europe
+NLD,Netherlands,1955,13.898993,Europe
+NLD,Netherlands,1956,14.331997,Europe
+NLD,Netherlands,1957,14.88208,Europe
+NLD,Netherlands,1958,15.086685,Europe
+NLD,Netherlands,1959,15.896571,Europe
+NLD,Netherlands,1960,17.20012,Europe
+NLD,Netherlands,1961,17.36024,Europe
+NLD,Netherlands,1962,17.786955,Europe
+NLD,Netherlands,1963,17.682125,Europe
+NLD,Netherlands,1964,19.365513,Europe
+NLD,Netherlands,1965,20.041805,Europe
+NLD,Netherlands,1966,20.258251,Europe
+NLD,Netherlands,1967,21.44525,Europe
+NLD,Netherlands,1968,22.625898,Europe
+NLD,Netherlands,1970,24.202515,Europe
+NLD,Netherlands,1971,25.76558,Europe
+NLD,Netherlands,1972,26.957249,Europe
+NLD,Netherlands,1973,29.199915,Europe
+NLD,Netherlands,1974,31.73102,Europe
+NLD,Netherlands,1975,33.208977,Europe
+NLD,Netherlands,1976,35.00219,Europe
+NLD,Netherlands,1977,35.999542,Europe
+NLD,Netherlands,1978,37.090588,Europe
+NLD,Netherlands,1979,37.67584,Europe
+NLD,Netherlands,1980,38.711372,Europe
+NLD,Netherlands,1981,37.863018,Europe
+NLD,Netherlands,1982,37.708652,Europe
+NLD,Netherlands,1983,38.4624,Europe
+NLD,Netherlands,1984,39.05448,Europe
+NLD,Netherlands,1985,37.854927,Europe
+NLD,Netherlands,1986,39.04359,Europe
+NLD,Netherlands,1987,39.201008,Europe
+NLD,Netherlands,1988,40.105953,Europe
+NLD,Netherlands,1989,40.839977,Europe
+NLD,Netherlands,1990,42.341084,Europe
+NLD,Netherlands,1991,43.16381,Europe
+NLD,Netherlands,1992,43.048706,Europe
+NLD,Netherlands,1993,44.567387,Europe
+NLD,Netherlands,1994,45.287746,Europe
+NLD,Netherlands,1995,46.16416,Europe
+NLD,Netherlands,1996,46.58419,Europe
+NLD,Netherlands,1997,48.85034,Europe
+NLD,Netherlands,1998,49.452793,Europe
+NLD,Netherlands,1999,51.94019,Europe
+NLD,Netherlands,2000,56.511986,Europe
+NLD,Netherlands,2001,56.631924,Europe
+NLD,Netherlands,2002,57.185432,Europe
+NLD,Netherlands,2003,57.887104,Europe
+NLD,Netherlands,2004,58.761932,Europe
+NLD,Netherlands,2005,66.80439,Europe
+NLD,Netherlands,2006,67.05721,Europe
+NLD,Netherlands,2007,69.592285,Europe
+NLD,Netherlands,2008,71.34044,Europe
+NLD,Netherlands,2009,66.42687,Europe
+NLD,Netherlands,2010,67.39713,Europe
+NLD,Netherlands,2011,68.47871,Europe
+NLD,Netherlands,2012,70.78001,Europe
+NLD,Netherlands,2013,74.74744,Europe
+NLD,Netherlands,2014,70.81941,Europe
+NLD,Netherlands,2015,69.6892,Europe
+NLD,Netherlands,2016,68.148186,Europe
+NLD,Netherlands,2017,70.61846,Europe
+NLD,Netherlands,2018,70.12136,Europe
+NLD,Netherlands,2019,69.77961,Europe
+NZL,New Zealand,1970,20.520288,Oceania
+NZL,New Zealand,1971,20.98911,Oceania
+NZL,New Zealand,1972,22.061644,Oceania
+NZL,New Zealand,1973,23.366339,Oceania
+NZL,New Zealand,1974,23.290552,Oceania
+NZL,New Zealand,1975,22.472792,Oceania
+NZL,New Zealand,1976,22.941683,Oceania
+NZL,New Zealand,1977,21.932146,Oceania
+NZL,New Zealand,1978,20.57688,Oceania
+NZL,New Zealand,1979,20.463825,Oceania
+NZL,New Zealand,1980,20.61603,Oceania
+NZL,New Zealand,1981,21.855492,Oceania
+NZL,New Zealand,1982,21.809278,Oceania
+NZL,New Zealand,1983,22.566324,Oceania
+NZL,New Zealand,1984,23.590374,Oceania
+NZL,New Zealand,1985,22.587145,Oceania
+NZL,New Zealand,1986,24.02335,Oceania
+NZL,New Zealand,1987,24.90125,Oceania
+NZL,New Zealand,1988,27.004423,Oceania
+NZL,New Zealand,1989,28.208313,Oceania
+NZL,New Zealand,1990,28.456034,Oceania
+NZL,New Zealand,1991,28.466188,Oceania
+NZL,New Zealand,1992,28.873158,Oceania
+NZL,New Zealand,1993,29.425865,Oceania
+NZL,New Zealand,1994,30.06471,Oceania
+NZL,New Zealand,1995,30.408707,Oceania
+NZL,New Zealand,1996,31.179928,Oceania
+NZL,New Zealand,1997,32.43919,Oceania
+NZL,New Zealand,1998,33.185,Oceania
+NZL,New Zealand,1999,34.4251,Oceania
+NZL,New Zealand,2000,34.19455,Oceania
+NZL,New Zealand,2001,34.61917,Oceania
+NZL,New Zealand,2002,34.656883,Oceania
+NZL,New Zealand,2003,35.050877,Oceania
+NZL,New Zealand,2004,33.844494,Oceania
+NZL,New Zealand,2005,34.581734,Oceania
+NZL,New Zealand,2006,34.55735,Oceania
+NZL,New Zealand,2007,36.66018,Oceania
+NZL,New Zealand,2008,37.040737,Oceania
+NZL,New Zealand,2009,38.593353,Oceania
+NZL,New Zealand,2010,39.632904,Oceania
+NZL,New Zealand,2011,41.13166,Oceania
+NZL,New Zealand,2012,41.361797,Oceania
+NZL,New Zealand,2013,41.392303,Oceania
+NZL,New Zealand,2014,41.358177,Oceania
+NZL,New Zealand,2015,41.29625,Oceania
+NZL,New Zealand,2016,42.350384,Oceania
+NZL,New Zealand,2017,42.7376,Oceania
+NZL,New Zealand,2018,42.714916,Oceania
+NZL,New Zealand,2019,44.547375,Oceania
+NOR,Norway,1950,9.907662,Europe
+NOR,Norway,1951,10.469594,Europe
+NOR,Norway,1952,11.026875,Europe
+NOR,Norway,1953,11.60994,Europe
+NOR,Norway,1954,11.953661,Europe
+NOR,Norway,1955,12.385934,Europe
+NOR,Norway,1956,12.9130535,Europe
+NOR,Norway,1957,13.583911,Europe
+NOR,Norway,1958,13.69358,Europe
+NOR,Norway,1959,14.12929,Europe
+NOR,Norway,1960,14.403861,Europe
+NOR,Norway,1961,15.121853,Europe
+NOR,Norway,1962,15.429263,Europe
+NOR,Norway,1963,15.964842,Europe
+NOR,Norway,1964,16.813877,Europe
+NOR,Norway,1965,17.995508,Europe
+NOR,Norway,1966,18.55077,Europe
+NOR,Norway,1967,19.760601,Europe
+NOR,Norway,1968,20.903234,Europe
+NOR,Norway,1969,22.103846,Europe
+NOR,Norway,1970,17.760332,Europe
+NOR,Norway,1971,19.209253,Europe
+NOR,Norway,1972,21.406303,Europe
+NOR,Norway,1973,22.084812,Europe
+NOR,Norway,1974,23.943645,Europe
+NOR,Norway,1975,26.599808,Europe
+NOR,Norway,1976,29.84158,Europe
+NOR,Norway,1977,30.629992,Europe
+NOR,Norway,1978,33.34545,Europe
+NOR,Norway,1979,35.46178,Europe
+NOR,Norway,1980,36.85388,Europe
+NOR,Norway,1981,36.93323,Europe
+NOR,Norway,1982,36.815235,Europe
+NOR,Norway,1983,38.781002,Europe
+NOR,Norway,1984,40.94229,Europe
+NOR,Norway,1985,40.305424,Europe
+NOR,Norway,1986,37.816162,Europe
+NOR,Norway,1987,38.734505,Europe
+NOR,Norway,1988,37.339443,Europe
+NOR,Norway,1989,40.062706,Europe
+NOR,Norway,1990,44.95071,Europe
+NOR,Norway,1991,45.559517,Europe
+NOR,Norway,1992,46.800808,Europe
+NOR,Norway,1993,47.055927,Europe
+NOR,Norway,1994,48.30773,Europe
+NOR,Norway,1995,51.57199,Europe
+NOR,Norway,1996,57.040657,Europe
+NOR,Norway,1997,58.731735,Europe
+NOR,Norway,1998,54.6418,Europe
+NOR,Norway,1999,60.438477,Europe
+NOR,Norway,2000,74.944664,Europe
+NOR,Norway,2001,77.07967,Europe
+NOR,Norway,2002,75.60525,Europe
+NOR,Norway,2003,83.69843,Europe
+NOR,Norway,2004,88.14824,Europe
+NOR,Norway,2005,108.196556,Europe
+NOR,Norway,2006,114.72537,Europe
+NOR,Norway,2007,111.84552,Europe
+NOR,Norway,2008,123.31775,Europe
+NOR,Norway,2009,106.1077,Europe
+NOR,Norway,2010,114.91975,Europe
+NOR,Norway,2011,124.166626,Europe
+NOR,Norway,2012,129.02542,Europe
+NOR,Norway,2013,125.781,Europe
+NOR,Norway,2014,116.55276,Europe
+NOR,Norway,2015,97.47578,Europe
+NOR,Norway,2016,93.00969,Europe
+NOR,Norway,2017,96.84903,Europe
+NOR,Norway,2018,103.562225,Europe
+NOR,Norway,2019,100.325645,Europe
+PAK,Pakistan,1970,2.9666708,Asia
+PAK,Pakistan,1971,3.017757,Asia
+PAK,Pakistan,1972,2.866751,Asia
+PAK,Pakistan,1973,2.9309175,Asia
+PAK,Pakistan,1974,2.999609,Asia
+PAK,Pakistan,1975,3.0776088,Asia
+PAK,Pakistan,1976,3.1582005,Asia
+PAK,Pakistan,1977,3.166501,Asia
+PAK,Pakistan,1978,3.2872465,Asia
+PAK,Pakistan,1979,3.2886379,Asia
+PAK,Pakistan,1980,3.4211724,Asia
+PAK,Pakistan,1981,3.598599,Asia
+PAK,Pakistan,1982,3.6589348,Asia
+PAK,Pakistan,1983,3.8796856,Asia
+PAK,Pakistan,1984,3.977794,Asia
+PAK,Pakistan,1985,4.1516323,Asia
+PAK,Pakistan,1986,4.274906,Asia
+PAK,Pakistan,1987,4.317833,Asia
+PAK,Pakistan,1988,4.5460234,Asia
+PAK,Pakistan,1989,4.7451615,Asia
+PAK,Pakistan,1990,4.7315207,Asia
+PAK,Pakistan,1991,4.929509,Asia
+PAK,Pakistan,1992,5.1446376,Asia
+PAK,Pakistan,1993,5.2175946,Asia
+PAK,Pakistan,1994,5.111992,Asia
+PAK,Pakistan,1995,5.34702,Asia
+PAK,Pakistan,1996,5.436995,Asia
+PAK,Pakistan,1997,5.207888,Asia
+PAK,Pakistan,1998,5.3142533,Asia
+PAK,Pakistan,1999,5.235243,Asia
+PAK,Pakistan,2000,5.16124,Asia
+PAK,Pakistan,2001,5.00235,Asia
+PAK,Pakistan,2002,5.0142965,Asia
+PAK,Pakistan,2003,4.9974833,Asia
+PAK,Pakistan,2004,5.2737136,Asia
+PAK,Pakistan,2005,5.555181,Asia
+PAK,Pakistan,2006,5.891027,Asia
+PAK,Pakistan,2007,6.230948,Asia
+PAK,Pakistan,2008,6.432141,Asia
+PAK,Pakistan,2009,6.6205926,Asia
+PAK,Pakistan,2010,6.673804,Asia
+PAK,Pakistan,2011,7.190615,Asia
+PAK,Pakistan,2012,7.303584,Asia
+PAK,Pakistan,2013,7.2498655,Asia
+PAK,Pakistan,2014,7.532263,Asia
+PAK,Pakistan,2015,7.966741,Asia
+PAK,Pakistan,2016,7.953004,Asia
+PAK,Pakistan,2017,8.322207,Asia
+PAK,Pakistan,2018,8.668698,Asia
+PAK,Pakistan,2019,8.772413,Asia
+PER,Peru,1950,2.6484497,South America
+PER,Peru,1951,2.8177915,South America
+PER,Peru,1952,2.9344518,South America
+PER,Peru,1953,3.0423982,South America
+PER,Peru,1954,3.1927836,South America
+PER,Peru,1955,3.3117058,South America
+PER,Peru,1956,3.371967,South America
+PER,Peru,1957,3.5843544,South America
+PER,Peru,1958,3.4856973,South America
+PER,Peru,1959,3.5018563,South America
+PER,Peru,1960,3.8014476,South America
+PER,Peru,1961,4.021363,South America
+PER,Peru,1962,4.323904,South America
+PER,Peru,1963,4.5115204,South America
+PER,Peru,1964,4.7517805,South America
+PER,Peru,1965,4.9986486,South America
+PER,Peru,1966,5.306702,South America
+PER,Peru,1967,5.4991684,South America
+PER,Peru,1968,5.4132385,South America
+PER,Peru,1969,5.5991554,South America
+PER,Peru,1970,5.6983523,South America
+PER,Peru,1971,5.824227,South America
+PER,Peru,1972,5.7678556,South America
+PER,Peru,1973,6.054074,South America
+PER,Peru,1974,6.346189,South America
+PER,Peru,1975,6.5259185,South America
+PER,Peru,1976,6.422749,South America
+PER,Peru,1977,6.220151,South America
+PER,Peru,1978,5.93782,South America
+PER,Peru,1979,5.948813,South America
+PER,Peru,1980,6.3007164,South America
+PER,Peru,1981,6.583321,South America
+PER,Peru,1982,6.4475436,South America
+PER,Peru,1983,5.7053123,South America
+PER,Peru,1984,5.7681093,South America
+PER,Peru,1985,5.6652513,South America
+PER,Peru,1986,6.0267706,South America
+PER,Peru,1987,6.527445,South America
+PER,Peru,1988,6.1723676,South America
+PER,Peru,1989,5.0469494,South America
+PER,Peru,1990,4.977477,South America
+PER,Peru,1991,4.8743596,South America
+PER,Peru,1992,4.9737883,South America
+PER,Peru,1993,5.1729245,South America
+PER,Peru,1994,5.73697,South America
+PER,Peru,1995,6.102011,South America
+PER,Peru,1996,6.2091656,South America
+PER,Peru,1997,6.4707785,South America
+PER,Peru,1998,6.0912576,South America
+PER,Peru,1999,5.917506,South America
+PER,Peru,2000,5.830105,South America
+PER,Peru,2001,5.7824183,South America
+PER,Peru,2002,6.0206456,South America
+PER,Peru,2003,6.279441,South America
+PER,Peru,2004,6.6183205,South America
+PER,Peru,2005,7.1518135,South America
+PER,Peru,2006,7.8262706,South America
+PER,Peru,2007,8.373975,South America
+PER,Peru,2008,8.944306,South America
+PER,Peru,2009,8.764146,South America
+PER,Peru,2010,9.678762,South America
+PER,Peru,2011,10.373608,South America
+PER,Peru,2012,10.701444,South America
+PER,Peru,2013,10.763198,South America
+PER,Peru,2014,10.657607,South America
+PER,Peru,2015,10.481914,South America
+PER,Peru,2016,10.576797,South America
+PER,Peru,2017,10.748999,South America
+PER,Peru,2018,10.917692,South America
+PER,Peru,2019,11.008161,South America
+PHL,Philippines,1970,3.7410529,Asia
+PHL,Philippines,1971,3.6028402,Asia
+PHL,Philippines,1972,3.8071616,Asia
+PHL,Philippines,1973,3.7744696,Asia
+PHL,Philippines,1974,4.0117893,Asia
+PHL,Philippines,1975,4.1602697,Asia
+PHL,Philippines,1976,4.517484,Asia
+PHL,Philippines,1977,4.5637336,Asia
+PHL,Philippines,1978,4.373169,Asia
+PHL,Philippines,1979,4.4381256,Asia
+PHL,Philippines,1980,4.830546,Asia
+PHL,Philippines,1981,4.772035,Asia
+PHL,Philippines,1982,5.0469213,Asia
+PHL,Philippines,1983,4.5831437,Asia
+PHL,Philippines,1984,4.139392,Asia
+PHL,Philippines,1985,3.8855753,Asia
+PHL,Philippines,1986,3.969068,Asia
+PHL,Philippines,1987,4.321253,Asia
+PHL,Philippines,1988,4.616014,Asia
+PHL,Philippines,1989,4.9365478,Asia
+PHL,Philippines,1990,5.263715,Asia
+PHL,Philippines,1991,5.315545,Asia
+PHL,Philippines,1992,5.355078,Asia
+PHL,Philippines,1993,5.6790833,Asia
+PHL,Philippines,1994,6.1158614,Asia
+PHL,Philippines,1995,6.683218,Asia
+PHL,Philippines,1996,6.9570694,Asia
+PHL,Philippines,1997,6.567474,Asia
+PHL,Philippines,1998,6.0739584,Asia
+PHL,Philippines,1999,5.740606,Asia
+PHL,Philippines,2000,5.7828255,Asia
+PHL,Philippines,2001,5.928682,Asia
+PHL,Philippines,2002,5.8759704,Asia
+PHL,Philippines,2003,5.8353586,Asia
+PHL,Philippines,2004,5.8045473,Asia
+PHL,Philippines,2005,5.94461,Asia
+PHL,Philippines,2006,6.157087,Asia
+PHL,Philippines,2007,6.353869,Asia
+PHL,Philippines,2008,6.639924,Asia
+PHL,Philippines,2009,6.683566,Asia
+PHL,Philippines,2010,7.1145678,Asia
+PHL,Philippines,2011,7.5580993,Asia
+PHL,Philippines,2012,7.963308,Asia
+PHL,Philippines,2013,8.149555,Asia
+PHL,Philippines,2014,8.372548,Asia
+PHL,Philippines,2015,8.691644,Asia
+PHL,Philippines,2016,8.84958,Asia
+PHL,Philippines,2017,9.45045,Asia
+PHL,Philippines,2018,9.835632,Asia
+PHL,Philippines,2019,9.929681,Asia
+POL,Poland,1995,15.280071,Europe
+POL,Poland,1996,16.28021,Europe
+POL,Poland,1997,16.8928,Europe
+POL,Poland,1998,17.336582,Europe
+POL,Poland,1999,18.164156,Europe
+POL,Poland,2000,19.336899,Europe
+POL,Poland,2001,19.847076,Europe
+POL,Poland,2002,20.997034,Europe
+POL,Poland,2003,21.38104,Europe
+POL,Poland,2004,21.902554,Europe
+POL,Poland,2005,22.63348,Europe
+POL,Poland,2006,22.724333,Europe
+POL,Poland,2007,23.69253,Europe
+POL,Poland,2008,24.393005,Europe
+POL,Poland,2009,25.316256,Europe
+POL,Poland,2010,28.597836,Europe
+POL,Poland,2011,30.57005,Europe
+POL,Poland,2012,31.27495,Europe
+POL,Poland,2013,31.29155,Europe
+POL,Poland,2014,31.03163,Europe
+POL,Poland,2015,31.873243,Europe
+POL,Poland,2016,32.267654,Europe
+POL,Poland,2017,33.66429,Europe
+POL,Poland,2018,35.659782,Europe
+POL,Poland,2019,37.07774,Europe
+PRT,Portugal,1950,3.2812173,Europe
+PRT,Portugal,1951,3.6839054,Europe
+PRT,Portugal,1952,3.8646781,Europe
+PRT,Portugal,1953,4.084427,Europe
+PRT,Portugal,1954,4.2859015,Europe
+PRT,Portugal,1955,4.4716263,Europe
+PRT,Portugal,1956,4.6974297,Europe
+PRT,Portugal,1957,5.0341034,Europe
+PRT,Portugal,1958,4.9388285,Europe
+PRT,Portugal,1959,5.2168193,Europe
+PRT,Portugal,1960,5.5631413,Europe
+PRT,Portugal,1961,5.895242,Europe
+PRT,Portugal,1962,6.3639197,Europe
+PRT,Portugal,1963,6.7905793,Europe
+PRT,Portugal,1964,7.1194415,Europe
+PRT,Portugal,1965,7.6807976,Europe
+PRT,Portugal,1966,7.9543943,Europe
+PRT,Portugal,1967,8.66021,Europe
+PRT,Portugal,1968,9.9525585,Europe
+PRT,Portugal,1969,10.373981,Europe
+PRT,Portugal,1970,11.027276,Europe
+PRT,Portugal,1971,11.5192,Europe
+PRT,Portugal,1972,12.343878,Europe
+PRT,Portugal,1973,13.628658,Europe
+PRT,Portugal,1974,12.870105,Europe
+PRT,Portugal,1975,11.889884,Europe
+PRT,Portugal,1976,12.568412,Europe
+PRT,Portugal,1977,13.064075,Europe
+PRT,Portugal,1978,13.388793,Europe
+PRT,Portugal,1979,13.86648,Europe
+PRT,Portugal,1980,14.162748,Europe
+PRT,Portugal,1981,14.097729,Europe
+PRT,Portugal,1982,14.232082,Europe
+PRT,Portugal,1983,13.386211,Europe
+PRT,Portugal,1984,13.023375,Europe
+PRT,Portugal,1985,13.3922205,Europe
+PRT,Portugal,1986,14.78374,Europe
+PRT,Portugal,1987,15.467871,Europe
+PRT,Portugal,1988,16.510382,Europe
+PRT,Portugal,1989,17.015308,Europe
+PRT,Portugal,1990,17.784199,Europe
+PRT,Portugal,1991,18.72974,Europe
+PRT,Portugal,1992,19.302189,Europe
+PRT,Portugal,1993,20.290115,Europe
+PRT,Portugal,1994,21.667118,Europe
+PRT,Portugal,1995,22.206059,Europe
+PRT,Portugal,1996,22.428747,Europe
+PRT,Portugal,1997,23.751776,Europe
+PRT,Portugal,1998,24.190683,Europe
+PRT,Portugal,1999,25.367647,Europe
+PRT,Portugal,2000,26.207767,Europe
+PRT,Portugal,2001,25.943388,Europe
+PRT,Portugal,2002,26.039156,Europe
+PRT,Portugal,2003,26.247849,Europe
+PRT,Portugal,2004,26.312006,Europe
+PRT,Portugal,2005,29.04467,Europe
+PRT,Portugal,2006,30.45835,Europe
+PRT,Portugal,2007,30.840103,Europe
+PRT,Portugal,2008,30.853395,Europe
+PRT,Portugal,2009,31.094946,Europe
+PRT,Portugal,2010,32.866035,Europe
+PRT,Portugal,2011,33.312737,Europe
+PRT,Portugal,2012,34.97005,Europe
+PRT,Portugal,2013,34.65448,Europe
+PRT,Portugal,2014,34.053814,Europe
+PRT,Portugal,2015,34.318027,Europe
+PRT,Portugal,2016,34.488335,Europe
+PRT,Portugal,2017,34.622093,Europe
+PRT,Portugal,2018,34.43423,Europe
+PRT,Portugal,2019,35.147415,Europe
+ROU,Romania,1995,9.537234,Europe
+ROU,Romania,1996,9.799868,Europe
+ROU,Romania,1997,9.259782,Europe
+ROU,Romania,1998,9.025296,Europe
+ROU,Romania,1999,9.093931,Europe
+ROU,Romania,2000,9.405514,Europe
+ROU,Romania,2001,10.246421,Europe
+ROU,Romania,2002,11.634535,Europe
+ROU,Romania,2003,12.937392,Europe
+ROU,Romania,2004,14.169445,Europe
+ROU,Romania,2005,14.945911,Europe
+ROU,Romania,2006,17.121294,Europe
+ROU,Romania,2007,19.056839,Europe
+ROU,Romania,2008,22.216656,Europe
+ROU,Romania,2009,22.136011,Europe
+ROU,Romania,2010,23.572714,Europe
+ROU,Romania,2011,23.93335,Europe
+ROU,Romania,2012,25.482965,Europe
+ROU,Romania,2013,25.733467,Europe
+ROU,Romania,2014,26.374271,Europe
+ROU,Romania,2015,28.203129,Europe
+ROU,Romania,2016,29.556286,Europe
+ROU,Romania,2017,32.271114,Europe
+ROU,Romania,2018,33.27176,Europe
+ROU,Romania,2019,34.723377,Europe
+RUS,Russia,1992,16.142405,Europe
+RUS,Russia,1993,14.020465,Europe
+RUS,Russia,1994,12.63095,Europe
+RUS,Russia,1995,12.229894,Europe
+RUS,Russia,1996,12.037783,Europe
+RUS,Russia,1997,11.550307,Europe
+RUS,Russia,1998,10.657077,Europe
+RUS,Russia,1999,10.068819,Europe
+RUS,Russia,2000,11.213559,Europe
+RUS,Russia,2001,11.383333,Europe
+RUS,Russia,2002,11.556682,Europe
+RUS,Russia,2003,12.55836,Europe
+RUS,Russia,2004,13.977831,Europe
+RUS,Russia,2005,15.850032,Europe
+RUS,Russia,2006,18.233566,Europe
+RUS,Russia,2007,20.971571,Europe
+RUS,Russia,2008,24.01428,Europe
+RUS,Russia,2009,22.15608,Europe
+RUS,Russia,2010,24.944563,Europe
+RUS,Russia,2011,28.113,Europe
+RUS,Russia,2012,29.995682,Europe
+RUS,Russia,2013,29.840853,Europe
+RUS,Russia,2014,28.953226,Europe
+RUS,Russia,2015,25.837358,Europe
+RUS,Russia,2016,25.788391,Europe
+RUS,Russia,2017,27.446236,Europe
+RUS,Russia,2018,29.06468,Europe
+RUS,Russia,2019,29.547054,Europe
+RUS,Russia,1992,16.142405,Asia
+RUS,Russia,1993,14.020465,Asia
+RUS,Russia,1994,12.63095,Asia
+RUS,Russia,1995,12.229894,Asia
+RUS,Russia,1996,12.037783,Asia
+RUS,Russia,1997,11.550307,Asia
+RUS,Russia,1998,10.657077,Asia
+RUS,Russia,1999,10.068819,Asia
+RUS,Russia,2000,11.213559,Asia
+RUS,Russia,2001,11.383333,Asia
+RUS,Russia,2002,11.556682,Asia
+RUS,Russia,2003,12.55836,Asia
+RUS,Russia,2004,13.977831,Asia
+RUS,Russia,2005,15.850032,Asia
+RUS,Russia,2006,18.233566,Asia
+RUS,Russia,2007,20.971571,Asia
+RUS,Russia,2008,24.01428,Asia
+RUS,Russia,2009,22.15608,Asia
+RUS,Russia,2010,24.944563,Asia
+RUS,Russia,2011,28.113,Asia
+RUS,Russia,2012,29.995682,Asia
+RUS,Russia,2013,29.840853,Asia
+RUS,Russia,2014,28.953226,Asia
+RUS,Russia,2015,25.837358,Asia
+RUS,Russia,2016,25.788391,Asia
+RUS,Russia,2017,27.446236,Asia
+RUS,Russia,2018,29.06468,Asia
+RUS,Russia,2019,29.547054,Asia
+SGP,Singapore,1960,3.9006174,Asia
+SGP,Singapore,1961,4.4178286,Asia
+SGP,Singapore,1962,4.9932733,Asia
+SGP,Singapore,1963,5.528052,Asia
+SGP,Singapore,1964,5.525317,Asia
+SGP,Singapore,1965,5.802855,Asia
+SGP,Singapore,1966,6.413456,Asia
+SGP,Singapore,1967,7.162774,Asia
+SGP,Singapore,1968,7.757151,Asia
+SGP,Singapore,1969,8.824212,Asia
+SGP,Singapore,1970,9.833744,Asia
+SGP,Singapore,1971,10.4474125,Asia
+SGP,Singapore,1972,10.551421,Asia
+SGP,Singapore,1973,11.519184,Asia
+SGP,Singapore,1974,12.803002,Asia
+SGP,Singapore,1975,13.638375,Asia
+SGP,Singapore,1976,14.520831,Asia
+SGP,Singapore,1977,15.476223,Asia
+SGP,Singapore,1978,16.928726,Asia
+SGP,Singapore,1979,18.520247,Asia
+SGP,Singapore,1980,19.705738,Asia
+SGP,Singapore,1981,18.166807,Asia
+SGP,Singapore,1982,18.053377,Asia
+SGP,Singapore,1983,19.482874,Asia
+SGP,Singapore,1984,21.38408,Asia
+SGP,Singapore,1985,20.027134,Asia
+SGP,Singapore,1986,20.987019,Asia
+SGP,Singapore,1987,22.492294,Asia
+SGP,Singapore,1988,23.070465,Asia
+SGP,Singapore,1989,22.154364,Asia
+SGP,Singapore,1990,23.198656,Asia
+SGP,Singapore,1991,21.36511,Asia
+SGP,Singapore,1992,20.746096,Asia
+SGP,Singapore,1993,19.97827,Asia
+SGP,Singapore,1994,18.425158,Asia
+SGP,Singapore,1995,18.623278,Asia
+SGP,Singapore,1996,22.307873,Asia
+SGP,Singapore,1997,21.954796,Asia
+SGP,Singapore,1998,24.276775,Asia
+SGP,Singapore,1999,24.299772,Asia
+SGP,Singapore,2000,30.42399,Asia
+SGP,Singapore,2001,29.471651,Asia
+SGP,Singapore,2002,31.106705,Asia
+SGP,Singapore,2003,30.018806,Asia
+SGP,Singapore,2004,33.862076,Asia
+SGP,Singapore,2005,44.355186,Asia
+SGP,Singapore,2006,46.44072,Asia
+SGP,Singapore,2007,46.967743,Asia
+SGP,Singapore,2008,40.87993,Asia
+SGP,Singapore,2009,39.941437,Asia
+SGP,Singapore,2010,47.979073,Asia
+SGP,Singapore,2011,50.826103,Asia
+SGP,Singapore,2012,49.144577,Asia
+SGP,Singapore,2013,46.140568,Asia
+SGP,Singapore,2014,49.082344,Asia
+SGP,Singapore,2015,48.794605,Asia
+SGP,Singapore,2016,49.45969,Asia
+SGP,Singapore,2017,54.29878,Asia
+SGP,Singapore,2018,55.62514,Asia
+SGP,Singapore,2019,54.55258,Asia
+SVK,Slovakia,1990,23.29104,Europe
+SVK,Slovakia,1991,19.993107,Europe
+SVK,Slovakia,1992,19.910147,Europe
+SVK,Slovakia,1993,20.169422,Europe
+SVK,Slovakia,1994,21.292253,Europe
+SVK,Slovakia,1995,21.491716,Europe
+SVK,Slovakia,1996,22.733274,Europe
+SVK,Slovakia,1997,23.491076,Europe
+SVK,Slovakia,1998,23.097233,Europe
+SVK,Slovakia,1999,22.678707,Europe
+SVK,Slovakia,2000,24.144154,Europe
+SVK,Slovakia,2001,25.50519,Europe
+SVK,Slovakia,2002,26.593657,Europe
+SVK,Slovakia,2003,27.36018,Europe
+SVK,Slovakia,2004,26.86491,Europe
+SVK,Slovakia,2005,29.709795,Europe
+SVK,Slovakia,2006,30.855715,Europe
+SVK,Slovakia,2007,32.386356,Europe
+SVK,Slovakia,2008,34.62105,Europe
+SVK,Slovakia,2009,33.67581,Europe
+SVK,Slovakia,2010,37.117123,Europe
+SVK,Slovakia,2011,37.21693,Europe
+SVK,Slovakia,2012,37.538563,Europe
+SVK,Slovakia,2013,36.791916,Europe
+SVK,Slovakia,2014,37.956326,Europe
+SVK,Slovakia,2015,37.41844,Europe
+SVK,Slovakia,2016,35.256275,Europe
+SVK,Slovakia,2017,35.165665,Europe
+SVK,Slovakia,2018,35.154427,Europe
+SVK,Slovakia,2019,35.82719,Europe
+VNM,Vietnam,1970,0.8612904,Asia
+VNM,Vietnam,1971,0.884889,Asia
+VNM,Vietnam,1972,1.0250126,Asia
+VNM,Vietnam,1973,0.96589863,Asia
+VNM,Vietnam,1974,0.96174157,Asia
+VNM,Vietnam,1975,0.83266914,Asia
+VNM,Vietnam,1976,0.9264008,Asia
+VNM,Vietnam,1977,1.0548981,Asia
+VNM,Vietnam,1978,1.0408705,Asia
+VNM,Vietnam,1979,1.0948144,Asia
+VNM,Vietnam,1980,1.1113576,Asia
+VNM,Vietnam,1981,1.1276174,Asia
+VNM,Vietnam,1982,1.1103384,Asia
+VNM,Vietnam,1983,1.1524781,Asia
+VNM,Vietnam,1984,1.2128034,Asia
+VNM,Vietnam,1985,1.2438431,Asia
+VNM,Vietnam,1986,1.2473692,Asia
+VNM,Vietnam,1987,1.2508391,Asia
+VNM,Vietnam,1988,1.27973,Asia
+VNM,Vietnam,1989,1.2303238,Asia
+VNM,Vietnam,1990,1.248242,Asia
+VNM,Vietnam,1991,1.3763326,Asia
+VNM,Vietnam,1992,1.4473767,Asia
+VNM,Vietnam,1993,1.6003783,Asia
+VNM,Vietnam,1994,1.6578928,Asia
+VNM,Vietnam,1995,1.7611171,Asia
+VNM,Vietnam,1996,1.9628545,Asia
+VNM,Vietnam,1997,2.0946474,Asia
+VNM,Vietnam,1998,2.0764184,Asia
+VNM,Vietnam,1999,2.0388327,Asia
+VNM,Vietnam,2000,2.1008787,Asia
+VNM,Vietnam,2001,2.3221524,Asia
+VNM,Vietnam,2002,2.4716961,Asia
+VNM,Vietnam,2003,2.5970147,Asia
+VNM,Vietnam,2004,2.7989905,Asia
+VNM,Vietnam,2005,3.0270452,Asia
+VNM,Vietnam,2006,3.0816696,Asia
+VNM,Vietnam,2007,3.380881,Asia
+VNM,Vietnam,2008,3.399545,Asia
+VNM,Vietnam,2009,3.2103312,Asia
+VNM,Vietnam,2010,3.712698,Asia
+VNM,Vietnam,2011,3.8844273,Asia
+VNM,Vietnam,2012,4.0761576,Asia
+VNM,Vietnam,2013,4.3015313,Asia
+VNM,Vietnam,2014,4.804195,Asia
+VNM,Vietnam,2015,4.946606,Asia
+VNM,Vietnam,2016,5.1569247,Asia
+VNM,Vietnam,2017,5.652919,Asia
+VNM,Vietnam,2018,5.982665,Asia
+VNM,Vietnam,2019,6.739149,Asia
+SVN,Slovenia,1995,25.936514,Europe
+SVN,Slovenia,1996,27.861086,Europe
+SVN,Slovenia,1997,29.07035,Europe
+SVN,Slovenia,1998,28.589737,Europe
+SVN,Slovenia,1999,29.04555,Europe
+SVN,Slovenia,2000,30.183662,Europe
+SVN,Slovenia,2001,30.578573,Europe
+SVN,Slovenia,2002,30.27885,Europe
+SVN,Slovenia,2003,31.049395,Europe
+SVN,Slovenia,2004,31.913849,Europe
+SVN,Slovenia,2005,35.70346,Europe
+SVN,Slovenia,2006,35.830597,Europe
+SVN,Slovenia,2007,36.134407,Europe
+SVN,Slovenia,2008,38.628654,Europe
+SVN,Slovenia,2009,36.110195,Europe
+SVN,Slovenia,2010,37.615192,Europe
+SVN,Slovenia,2011,40.164043,Europe
+SVN,Slovenia,2012,40.54615,Europe
+SVN,Slovenia,2013,40.011208,Europe
+SVN,Slovenia,2014,39.85244,Europe
+SVN,Slovenia,2015,38.51726,Europe
+SVN,Slovenia,2016,39.546898,Europe
+SVN,Slovenia,2017,40.554752,Europe
+SVN,Slovenia,2018,42.5601,Europe
+SVN,Slovenia,2019,42.50005,Europe
+ZAF,South Africa,2001,14.418629,Africa
+ZAF,South Africa,2002,14.43183,Africa
+ZAF,South Africa,2003,15.460175,Africa
+ZAF,South Africa,2004,16.013725,Africa
+ZAF,South Africa,2005,16.981928,Africa
+ZAF,South Africa,2006,16.608631,Africa
+ZAF,South Africa,2007,17.33961,Africa
+ZAF,South Africa,2008,17.446796,Africa
+ZAF,South Africa,2009,17.575262,Africa
+ZAF,South Africa,2010,18.785038,Africa
+ZAF,South Africa,2011,18.793608,Africa
+ZAF,South Africa,2012,19.016754,Africa
+ZAF,South Africa,2013,18.848959,Africa
+ZAF,South Africa,2014,18.931772,Africa
+ZAF,South Africa,2016,17.885271,Africa
+ZAF,South Africa,2017,18.054855,Africa
+ZAF,South Africa,2018,17.883596,Africa
+ZAF,South Africa,2019,17.969189,Africa
+ESP,Spain,1950,4.2093525,Europe
+ESP,Spain,1951,4.952261,Europe
+ESP,Spain,1952,5.182965,Europe
+ESP,Spain,1953,4.9694395,Europe
+ESP,Spain,1954,5.531813,Europe
+ESP,Spain,1955,5.8054724,Europe
+ESP,Spain,1956,6.18243,Europe
+ESP,Spain,1957,6.3979545,Europe
+ESP,Spain,1958,6.5882616,Europe
+ESP,Spain,1959,6.5457077,Europe
+ESP,Spain,1960,7.4155407,Europe
+ESP,Spain,1961,8.220225,Europe
+ESP,Spain,1962,9.037536,Europe
+ESP,Spain,1963,9.915869,Europe
+ESP,Spain,1964,10.606906,Europe
+ESP,Spain,1965,11.165489,Europe
+ESP,Spain,1966,11.888808,Europe
+ESP,Spain,1967,12.342417,Europe
+ESP,Spain,1968,13.353511,Europe
+ESP,Spain,1969,14.520748,Europe
+ESP,Spain,1970,14.90053,Europe
+ESP,Spain,1971,15.466237,Europe
+ESP,Spain,1972,16.556398,Europe
+ESP,Spain,1973,17.43986,Europe
+ESP,Spain,1974,18.1054,Europe
+ESP,Spain,1975,18.42838,Europe
+ESP,Spain,1976,19.413439,Europe
+ESP,Spain,1977,20.50535,Europe
+ESP,Spain,1978,22.025837,Europe
+ESP,Spain,1979,23.301933,Europe
+ESP,Spain,1980,24.862436,Europe
+ESP,Spain,1981,24.647726,Europe
+ESP,Spain,1982,24.323423,Europe
+ESP,Spain,1983,24.323198,Europe
+ESP,Spain,1984,25.075632,Europe
+ESP,Spain,1985,25.155844,Europe
+ESP,Spain,1986,26.321772,Europe
+ESP,Spain,1987,27.108795,Europe
+ESP,Spain,1988,28.179577,Europe
+ESP,Spain,1989,29.23166,Europe
+ESP,Spain,1990,29.706087,Europe
+ESP,Spain,1991,30.560263,Europe
+ESP,Spain,1992,31.970045,Europe
+ESP,Spain,1993,33.561295,Europe
+ESP,Spain,1994,35.232494,Europe
+ESP,Spain,1995,36.420605,Europe
+ESP,Spain,1996,37.20397,Europe
+ESP,Spain,1997,38.65604,Europe
+ESP,Spain,1998,39.347706,Europe
+ESP,Spain,1999,39.084496,Europe
+ESP,Spain,2000,39.56358,Europe
+ESP,Spain,2001,39.063046,Europe
+ESP,Spain,2002,39.386444,Europe
+ESP,Spain,2003,38.99506,Europe
+ESP,Spain,2004,39.34177,Europe
+ESP,Spain,2005,42.210934,Europe
+ESP,Spain,2006,44.520966,Europe
+ESP,Spain,2007,46.45947,Europe
+ESP,Spain,2008,47.022587,Europe
+ESP,Spain,2009,48.159397,Europe
+ESP,Spain,2010,48.991467,Europe
+ESP,Spain,2011,49.908657,Europe
+ESP,Spain,2012,52.12421,Europe
+ESP,Spain,2013,52.641403,Europe
+ESP,Spain,2014,52.219486,Europe
+ESP,Spain,2015,53.697327,Europe
+ESP,Spain,2016,54.58749,Europe
+ESP,Spain,2017,56.063015,Europe
+ESP,Spain,2018,55.855927,Europe
+ESP,Spain,2019,56.31081,Europe
+SWE,Sweden,1950,10.858836,Europe
+SWE,Sweden,1951,11.14681,Europe
+SWE,Sweden,1952,11.347253,Europe
+SWE,Sweden,1953,11.91346,Europe
+SWE,Sweden,1954,12.356361,Europe
+SWE,Sweden,1955,12.658132,Europe
+SWE,Sweden,1956,13.052118,Europe
+SWE,Sweden,1957,13.279284,Europe
+SWE,Sweden,1958,13.727326,Europe
+SWE,Sweden,1959,14.528428,Europe
+SWE,Sweden,1960,14.594508,Europe
+SWE,Sweden,1961,15.391919,Europe
+SWE,Sweden,1962,16.01954,Europe
+SWE,Sweden,1963,16.832603,Europe
+SWE,Sweden,1964,18.094172,Europe
+SWE,Sweden,1965,18.662718,Europe
+SWE,Sweden,1966,19.11123,Europe
+SWE,Sweden,1967,20.401386,Europe
+SWE,Sweden,1968,21.418922,Europe
+SWE,Sweden,1969,22.314129,Europe
+SWE,Sweden,1970,23.598629,Europe
+SWE,Sweden,1971,24.413507,Europe
+SWE,Sweden,1972,25.53271,Europe
+SWE,Sweden,1973,26.78763,Europe
+SWE,Sweden,1974,27.168604,Europe
+SWE,Sweden,1975,27.59229,Europe
+SWE,Sweden,1976,27.491,Europe
+SWE,Sweden,1977,27.374071,Europe
+SWE,Sweden,1978,28.62475,Europe
+SWE,Sweden,1979,29.242931,Europe
+SWE,Sweden,1980,29.056602,Europe
+SWE,Sweden,1981,29.637472,Europe
+SWE,Sweden,1982,29.726414,Europe
+SWE,Sweden,1983,30.272861,Europe
+SWE,Sweden,1984,31.454865,Europe
+SWE,Sweden,1985,31.78546,Europe
+SWE,Sweden,1986,33.885395,Europe
+SWE,Sweden,1987,34.909298,Europe
+SWE,Sweden,1988,35.362347,Europe
+SWE,Sweden,1989,35.823856,Europe
+SWE,Sweden,1990,36.176434,Europe
+SWE,Sweden,1991,36.896164,Europe
+SWE,Sweden,1992,37.865353,Europe
+SWE,Sweden,1993,37.79536,Europe
+SWE,Sweden,1994,39.588776,Europe
+SWE,Sweden,1995,41.539886,Europe
+SWE,Sweden,1996,42.876877,Europe
+SWE,Sweden,1997,44.848827,Europe
+SWE,Sweden,1998,45.998344,Europe
+SWE,Sweden,1999,47.301346,Europe
+SWE,Sweden,2000,49.93068,Europe
+SWE,Sweden,2001,48.27664,Europe
+SWE,Sweden,2002,49.211044,Europe
+SWE,Sweden,2003,51.32245,Europe
+SWE,Sweden,2004,53.313663,Europe
+SWE,Sweden,2005,55.468353,Europe
+SWE,Sweden,2006,56.860283,Europe
+SWE,Sweden,2007,58.842804,Europe
+SWE,Sweden,2008,59.523712,Europe
+SWE,Sweden,2009,57.281887,Europe
+SWE,Sweden,2010,58.980328,Europe
+SWE,Sweden,2011,61.892174,Europe
+SWE,Sweden,2012,62.106907,Europe
+SWE,Sweden,2013,61.808903,Europe
+SWE,Sweden,2014,61.54204,Europe
+SWE,Sweden,2015,63.007225,Europe
+SWE,Sweden,2016,62.609314,Europe
+SWE,Sweden,2017,64.33747,Europe
+SWE,Sweden,2018,63.764103,Europe
+SWE,Sweden,2019,65.53587,Europe
+CHE,Switzerland,1950,15.77341,Europe
+CHE,Switzerland,1951,16.673876,Europe
+CHE,Switzerland,1952,16.399836,Europe
+CHE,Switzerland,1953,16.989468,Europe
+CHE,Switzerland,1954,18.031937,Europe
+CHE,Switzerland,1955,19.082586,Europe
+CHE,Switzerland,1956,19.974682,Europe
+CHE,Switzerland,1957,20.342276,Europe
+CHE,Switzerland,1958,19.803474,Europe
+CHE,Switzerland,1959,21.428202,Europe
+CHE,Switzerland,1960,22.737736,Europe
+CHE,Switzerland,1961,23.567085,Europe
+CHE,Switzerland,1962,23.763697,Europe
+CHE,Switzerland,1963,24.445429,Europe
+CHE,Switzerland,1964,25.46338,Europe
+CHE,Switzerland,1965,26.199947,Europe
+CHE,Switzerland,1966,26.889849,Europe
+CHE,Switzerland,1967,27.606853,Europe
+CHE,Switzerland,1968,28.411537,Europe
+CHE,Switzerland,1969,29.497551,Europe
+CHE,Switzerland,1970,30.962076,Europe
+CHE,Switzerland,1971,31.940605,Europe
+CHE,Switzerland,1972,32.9581,Europe
+CHE,Switzerland,1973,34.049995,Europe
+CHE,Switzerland,1974,35.011158,Europe
+CHE,Switzerland,1975,33.099533,Europe
+CHE,Switzerland,1976,33.395935,Europe
+CHE,Switzerland,1977,34.412994,Europe
+CHE,Switzerland,1978,35.13215,Europe
+CHE,Switzerland,1979,36.428448,Europe
+CHE,Switzerland,1980,37.88578,Europe
+CHE,Switzerland,1981,37.585957,Europe
+CHE,Switzerland,1982,37.518948,Europe
+CHE,Switzerland,1983,38.167744,Europe
+CHE,Switzerland,1984,38.62007,Europe
+CHE,Switzerland,1985,38.904556,Europe
+CHE,Switzerland,1986,40.513836,Europe
+CHE,Switzerland,1987,40.41738,Europe
+CHE,Switzerland,1988,40.27111,Europe
+CHE,Switzerland,1989,41.45908,Europe
+CHE,Switzerland,1990,42.746082,Europe
+CHE,Switzerland,1991,41.561443,Europe
+CHE,Switzerland,1992,42.012085,Europe
+CHE,Switzerland,1993,42.976044,Europe
+CHE,Switzerland,1994,43.79015,Europe
+CHE,Switzerland,1995,45.12358,Europe
+CHE,Switzerland,1996,46.428757,Europe
+CHE,Switzerland,1997,48.614483,Europe
+CHE,Switzerland,1998,49.182507,Europe
+CHE,Switzerland,1999,49.913273,Europe
+CHE,Switzerland,2000,50.3207,Europe
+CHE,Switzerland,2001,50.60761,Europe
+CHE,Switzerland,2002,51.1782,Europe
+CHE,Switzerland,2003,51.978863,Europe
+CHE,Switzerland,2004,52.806225,Europe
+CHE,Switzerland,2005,57.021378,Europe
+CHE,Switzerland,2006,59.944504,Europe
+CHE,Switzerland,2007,64.84992,Europe
+CHE,Switzerland,2008,68.55738,Europe
+CHE,Switzerland,2009,67.56619,Europe
+CHE,Switzerland,2010,70.88482,Europe
+CHE,Switzerland,2011,76.303345,Europe
+CHE,Switzerland,2012,78.00944,Europe
+CHE,Switzerland,2013,77.79825,Europe
+CHE,Switzerland,2014,78.753746,Europe
+CHE,Switzerland,2015,77.436226,Europe
+CHE,Switzerland,2016,77.82247,Europe
+CHE,Switzerland,2017,80.58823,Europe
+CHE,Switzerland,2018,81.968315,Europe
+CHE,Switzerland,2019,82.918655,Europe
+THA,Thailand,1970,2.4565363,Asia
+THA,Thailand,1971,2.513515,Asia
+THA,Thailand,1972,2.6661272,Asia
+THA,Thailand,1973,2.6904776,Asia
+THA,Thailand,1974,2.7070975,Asia
+THA,Thailand,1975,2.8011901,Asia
+THA,Thailand,1976,2.9758074,Asia
+THA,Thailand,1977,3.2212675,Asia
+THA,Thailand,1978,3.2475424,Asia
+THA,Thailand,1979,3.3730059,Asia
+THA,Thailand,1980,3.2158048,Asia
+THA,Thailand,1981,3.4119394,Asia
+THA,Thailand,1982,3.8682032,Asia
+THA,Thailand,1983,3.3342357,Asia
+THA,Thailand,1984,3.2987711,Asia
+THA,Thailand,1985,3.4396014,Asia
+THA,Thailand,1986,3.3923655,Asia
+THA,Thailand,1987,3.576176,Asia
+THA,Thailand,1988,3.7633352,Asia
+THA,Thailand,1989,3.9215462,Asia
+THA,Thailand,1990,4.526281,Asia
+THA,Thailand,1991,4.676503,Asia
+THA,Thailand,1992,4.9308076,Asia
+THA,Thailand,1993,5.5268965,Asia
+THA,Thailand,1994,5.9042473,Asia
+THA,Thailand,1995,6.5853,Asia
+THA,Thailand,1996,7.4958553,Asia
+THA,Thailand,1997,6.877873,Asia
+THA,Thailand,1998,5.889067,Asia
+THA,Thailand,1999,6.183715,Asia
+THA,Thailand,2000,6.1977625,Asia
+THA,Thailand,2001,6.5658803,Asia
+THA,Thailand,2002,6.9211497,Asia
+THA,Thailand,2003,7.300802,Asia
+THA,Thailand,2004,7.6645355,Asia
+THA,Thailand,2005,8.444663,Asia
+THA,Thailand,2006,8.8521385,Asia
+THA,Thailand,2007,9.2954645,Asia
+THA,Thailand,2008,9.652878,Asia
+THA,Thailand,2009,9.282351,Asia
+THA,Thailand,2010,10.453212,Asia
+THA,Thailand,2011,11.046585,Asia
+THA,Thailand,2012,12.355092,Asia
+THA,Thailand,2013,12.694019,Asia
+THA,Thailand,2014,12.534133,Asia
+THA,Thailand,2015,12.897164,Asia
+THA,Thailand,2016,13.135729,Asia
+THA,Thailand,2017,14.745839,Asia
+THA,Thailand,2018,14.859359,Asia
+THA,Thailand,2019,15.167234,Asia
+TTO,Trinidad and Tobago,1991,22.889187,North America
+TTO,Trinidad and Tobago,1992,21.78846,North America
+TTO,Trinidad and Tobago,1993,20.282984,North America
+TTO,Trinidad and Tobago,1994,19.54792,North America
+TTO,Trinidad and Tobago,1995,18.79509,North America
+TTO,Trinidad and Tobago,1996,17.768461,North America
+TTO,Trinidad and Tobago,1997,17.40852,North America
+TTO,Trinidad and Tobago,1998,16.4345,North America
+TTO,Trinidad and Tobago,1999,18.962158,North America
+TTO,Trinidad and Tobago,2000,22.101263,North America
+TTO,Trinidad and Tobago,2001,20.48534,North America
+TTO,Trinidad and Tobago,2002,21.240498,North America
+TUR,Turkey,1970,10.601305,Europe
+TUR,Turkey,1971,10.768229,Europe
+TUR,Turkey,1972,11.473463,Europe
+TUR,Turkey,1973,11.864732,Europe
+TUR,Turkey,1974,13.271403,Europe
+TUR,Turkey,1975,14.196969,Europe
+TUR,Turkey,1976,15.674814,Europe
+TUR,Turkey,1977,15.050656,Europe
+TUR,Turkey,1978,14.478953,Europe
+TUR,Turkey,1979,14.118378,Europe
+TUR,Turkey,1980,13.800844,Europe
+TUR,Turkey,1981,15.372226,Europe
+TUR,Turkey,1982,14.731944,Europe
+TUR,Turkey,1983,15.183311,Europe
+TUR,Turkey,1984,16.2663,Europe
+TUR,Turkey,1985,16.364235,Europe
+TUR,Turkey,1986,16.780891,Europe
+TUR,Turkey,1987,18.249243,Europe
+TUR,Turkey,1988,17.687508,Europe
+TUR,Turkey,1989,17.013956,Europe
+TUR,Turkey,1990,18.645437,Europe
+TUR,Turkey,1991,17.0931,Europe
+TUR,Turkey,1992,17.62716,Europe
+TUR,Turkey,1993,20.266287,Europe
+TUR,Turkey,1994,17.478455,Europe
+TUR,Turkey,1995,19.02518,Europe
+TUR,Turkey,1996,20.25807,Europe
+TUR,Turkey,1997,21.55358,Europe
+TUR,Turkey,1998,20.888668,Europe
+TUR,Turkey,1999,19.306677,Europe
+TUR,Turkey,2000,21.29033,Europe
+TUR,Turkey,2001,20.841036,Europe
+TUR,Turkey,2002,20.80566,Europe
+TUR,Turkey,2003,20.569073,Europe
+TUR,Turkey,2004,23.346582,Europe
+TUR,Turkey,2005,25.003391,Europe
+TUR,Turkey,2006,27.891794,Europe
+TUR,Turkey,2007,30.429176,Europe
+TUR,Turkey,2008,31.903471,Europe
+TUR,Turkey,2009,31.13515,Europe
+TUR,Turkey,2010,33.744137,Europe
+TUR,Turkey,2011,35.660713,Europe
+TUR,Turkey,2012,36.57103,Europe
+TUR,Turkey,2013,38.42478,Europe
+TUR,Turkey,2014,39.79341,Europe
+TUR,Turkey,2015,41.47944,Europe
+TUR,Turkey,2016,40.536507,Europe
+TUR,Turkey,2017,41.799202,Europe
+TUR,Turkey,2018,43.00543,Europe
+TUR,Turkey,2019,43.692204,Europe
+TUR,Turkey,1970,10.601305,Asia
+TUR,Turkey,1971,10.768229,Asia
+TUR,Turkey,1972,11.473463,Asia
+TUR,Turkey,1973,11.864732,Asia
+TUR,Turkey,1974,13.271403,Asia
+TUR,Turkey,1975,14.196969,Asia
+TUR,Turkey,1976,15.674814,Asia
+TUR,Turkey,1977,15.050656,Asia
+TUR,Turkey,1978,14.478953,Asia
+TUR,Turkey,1979,14.118378,Asia
+TUR,Turkey,1980,13.800844,Asia
+TUR,Turkey,1981,15.372226,Asia
+TUR,Turkey,1982,14.731944,Asia
+TUR,Turkey,1983,15.183311,Asia
+TUR,Turkey,1984,16.2663,Asia
+TUR,Turkey,1985,16.364235,Asia
+TUR,Turkey,1986,16.780891,Asia
+TUR,Turkey,1987,18.249243,Asia
+TUR,Turkey,1988,17.687508,Asia
+TUR,Turkey,1989,17.013956,Asia
+TUR,Turkey,1990,18.645437,Asia
+TUR,Turkey,1991,17.0931,Asia
+TUR,Turkey,1992,17.62716,Asia
+TUR,Turkey,1993,20.266287,Asia
+TUR,Turkey,1994,17.478455,Asia
+TUR,Turkey,1995,19.02518,Asia
+TUR,Turkey,1996,20.25807,Asia
+TUR,Turkey,1997,21.55358,Asia
+TUR,Turkey,1998,20.888668,Asia
+TUR,Turkey,1999,19.306677,Asia
+TUR,Turkey,2000,21.29033,Asia
+TUR,Turkey,2001,20.841036,Asia
+TUR,Turkey,2002,20.80566,Asia
+TUR,Turkey,2003,20.569073,Asia
+TUR,Turkey,2004,23.346582,Asia
+TUR,Turkey,2005,25.003391,Asia
+TUR,Turkey,2006,27.891794,Asia
+TUR,Turkey,2007,30.429176,Asia
+TUR,Turkey,2008,31.903471,Asia
+TUR,Turkey,2009,31.13515,Asia
+TUR,Turkey,2010,33.744137,Asia
+TUR,Turkey,2011,35.660713,Asia
+TUR,Turkey,2012,36.57103,Asia
+TUR,Turkey,2013,38.42478,Asia
+TUR,Turkey,2014,39.79341,Asia
+TUR,Turkey,2015,41.47944,Asia
+TUR,Turkey,2016,40.536507,Asia
+TUR,Turkey,2017,41.799202,Asia
+TUR,Turkey,2018,43.00543,Asia
+TUR,Turkey,2019,43.692204,Asia
+GBR,United Kingdom,1950,10.331418,Europe
+GBR,United Kingdom,1951,10.466235,Europe
+GBR,United Kingdom,1952,10.593669,Europe
+GBR,United Kingdom,1953,11.059659,Europe
+GBR,United Kingdom,1954,11.30144,Europe
+GBR,United Kingdom,1955,11.641586,Europe
+GBR,United Kingdom,1956,11.858819,Europe
+GBR,United Kingdom,1957,12.199872,Europe
+GBR,United Kingdom,1958,12.563811,Europe
+GBR,United Kingdom,1959,13.220182,Europe
+GBR,United Kingdom,1960,13.684072,Europe
+GBR,United Kingdom,1961,14.121128,Europe
+GBR,United Kingdom,1962,14.465169,Europe
+GBR,United Kingdom,1963,15.071082,Europe
+GBR,United Kingdom,1964,15.790694,Europe
+GBR,United Kingdom,1965,16.23007,Europe
+GBR,United Kingdom,1966,16.954702,Europe
+GBR,United Kingdom,1967,17.71465,Europe
+GBR,United Kingdom,1968,18.621292,Europe
+GBR,United Kingdom,1969,19.06971,Europe
+GBR,United Kingdom,1970,20.08753,Europe
+GBR,United Kingdom,1971,21.08466,Europe
+GBR,United Kingdom,1972,21.464174,Europe
+GBR,United Kingdom,1973,22.490616,Europe
+GBR,United Kingdom,1974,21.869186,Europe
+GBR,United Kingdom,1975,21.895576,Europe
+GBR,United Kingdom,1976,23.206436,Europe
+GBR,United Kingdom,1977,24.14847,Europe
+GBR,United Kingdom,1978,25.635654,Europe
+GBR,United Kingdom,1979,26.88557,Europe
+GBR,United Kingdom,1980,27.886408,Europe
+GBR,United Kingdom,1981,28.654884,Europe
+GBR,United Kingdom,1982,29.300915,Europe
+GBR,United Kingdom,1983,30.296846,Europe
+GBR,United Kingdom,1984,29.932909,Europe
+GBR,United Kingdom,1985,30.047451,Europe
+GBR,United Kingdom,1986,30.333141,Europe
+GBR,United Kingdom,1987,31.004234,Europe
+GBR,United Kingdom,1988,30.986446,Europe
+GBR,United Kingdom,1989,30.594942,Europe
+GBR,United Kingdom,1990,31.00492,Europe
+GBR,United Kingdom,1991,31.34582,Europe
+GBR,United Kingdom,1992,32.18279,Europe
+GBR,United Kingdom,1993,33.45371,Europe
+GBR,United Kingdom,1994,33.91728,Europe
+GBR,United Kingdom,1995,36.779327,Europe
+GBR,United Kingdom,1996,38.637474,Europe
+GBR,United Kingdom,1997,40.242714,Europe
+GBR,United Kingdom,1998,41.010826,Europe
+GBR,United Kingdom,1999,42.357723,Europe
+GBR,United Kingdom,2000,44.76795,Europe
+GBR,United Kingdom,2001,45.33829,Europe
+GBR,United Kingdom,2002,45.502758,Europe
+GBR,United Kingdom,2003,46.255444,Europe
+GBR,United Kingdom,2004,46.993843,Europe
+GBR,United Kingdom,2005,49.651768,Europe
+GBR,United Kingdom,2006,50.061077,Europe
+GBR,United Kingdom,2007,49.39457,Europe
+GBR,United Kingdom,2008,50.692265,Europe
+GBR,United Kingdom,2009,48.38714,Europe
+GBR,United Kingdom,2010,51.329544,Europe
+GBR,United Kingdom,2011,51.850594,Europe
+GBR,United Kingdom,2012,52.153336,Europe
+GBR,United Kingdom,2013,53.171543,Europe
+GBR,United Kingdom,2014,52.07599,Europe
+GBR,United Kingdom,2015,53.37609,Europe
+GBR,United Kingdom,2016,53.079872,Europe
+GBR,United Kingdom,2017,54.676918,Europe
+GBR,United Kingdom,2018,54.799587,Europe
+GBR,United Kingdom,2019,54.34881,Europe
+USA,United States,1950,19.803486,North America
+USA,United States,1951,20.120426,North America
+USA,United States,1952,20.598131,North America
+USA,United States,1953,21.30933,North America
+USA,United States,1954,21.892582,North America
+USA,United States,1955,22.800766,North America
+USA,United States,1956,22.947628,North America
+USA,United States,1957,23.664543,North America
+USA,United States,1958,24.276978,North America
+USA,United States,1959,25.127491,North America
+USA,United States,1960,25.648903,North America
+USA,United States,1961,26.486559,North America
+USA,United States,1962,27.38961,North America
+USA,United States,1963,28.385633,North America
+USA,United States,1964,29.319862,North America
+USA,United States,1965,30.187088,North America
+USA,United States,1966,31.040636,North America
+USA,United States,1967,31.453077,North America
+USA,United States,1968,32.355244,North America
+USA,United States,1969,32.59705,North America
+USA,United States,1970,33.242287,North America
+USA,United States,1971,34.63091,North America
+USA,United States,1972,35.618088,North America
+USA,United States,1973,36.66489,North America
+USA,United States,1974,36.2089,North America
+USA,United States,1975,37.12749,North America
+USA,United States,1976,38.141457,North America
+USA,United States,1977,38.626003,North America
+USA,United States,1978,39.1048,North America
+USA,United States,1979,39.33189,North America
+USA,United States,1980,39.362434,North America
+USA,United States,1981,40.185394,North America
+USA,United States,1982,39.999233,North America
+USA,United States,1983,41.048336,North America
+USA,United States,1984,42.035206,North America
+USA,United States,1985,42.535244,North America
+USA,United States,1986,43.41627,North America
+USA,United States,1987,43.60946,North America
+USA,United States,1988,44.175945,North America
+USA,United States,1989,44.53704,North America
+USA,United States,1990,45.16287,North America
+USA,United States,1991,45.744625,North America
+USA,United States,1992,47.651917,North America
+USA,United States,1993,48.10981,North America
+USA,United States,1994,48.650463,North America
+USA,United States,1995,49.04458,North America
+USA,United States,1996,50.09086,North America
+USA,United States,1997,51.070477,North America
+USA,United States,1998,52.246185,North America
+USA,United States,1999,53.717453,North America
+USA,United States,2000,55.11331,North America
+USA,United States,2001,56.182423,North America
+USA,United States,2002,57.68048,North America
+USA,United States,2003,59.586433,North America
+USA,United States,2004,61.241177,North America
+USA,United States,2005,62.52242,North America
+USA,United States,2006,63.186916,North America
+USA,United States,2007,63.884613,North America
+USA,United States,2008,64.56712,North America
+USA,United States,2009,66.34159,North America
+USA,United States,2010,68.20562,North America
+USA,United States,2011,68.31264,North America
+USA,United States,2012,68.82278,North America
+USA,United States,2013,69.43636,North America
+USA,United States,2014,70.00538,North America
+USA,United States,2015,70.63671,North America
+USA,United States,2016,70.92089,North America
+USA,United States,2017,71.63857,North America
+USA,United States,2018,72.48703,North America
+USA,United States,2019,73.7004,North America
+URY,Uruguay,1990,13.299828,South America
+URY,Uruguay,1991,13.903573,South America
+URY,Uruguay,1992,15.332535,South America
+URY,Uruguay,1993,16.012783,South America
+URY,Uruguay,1994,16.9259,South America
+URY,Uruguay,1995,16.467913,South America
+URY,Uruguay,1996,17.332657,South America
+URY,Uruguay,1997,17.354332,South America
+URY,Uruguay,1998,17.478636,South America
+URY,Uruguay,1999,16.867584,South America
+URY,Uruguay,2000,16.522802,South America
+URY,Uruguay,2001,16.101044,South America
+URY,Uruguay,2002,15.725895,South America
+URY,Uruguay,2003,15.925493,South America
+URY,Uruguay,2004,15.562443,South America
+URY,Uruguay,2005,16.295483,South America
+URY,Uruguay,2006,16.68038,South America
+URY,Uruguay,2007,17.82848,South America
+URY,Uruguay,2008,19.192266,South America
+URY,Uruguay,2009,20.335516,South America
+URY,Uruguay,2010,23.218733,South America
+URY,Uruguay,2011,24.969807,South America
+URY,Uruguay,2012,25.788666,South America
+URY,Uruguay,2013,26.35496,South America
+URY,Uruguay,2014,27.157722,South America
+URY,Uruguay,2015,27.477356,South America
+URY,Uruguay,2016,27.915611,South America
+URY,Uruguay,2017,28.295845,South America
+URY,Uruguay,2018,28.267454,South America
+URY,Uruguay,2019,28.378277,South America
+VEN,Venezuela,1950,8.828285,South America
+VEN,Venezuela,1951,9.514012,South America
+VEN,Venezuela,1952,10.618969,South America
+VEN,Venezuela,1953,10.667643,South America
+VEN,Venezuela,1954,11.500893,South America
+VEN,Venezuela,1955,11.91255,South America
+VEN,Venezuela,1956,12.527544,South America
+VEN,Venezuela,1957,13.383218,South America
+VEN,Venezuela,1958,13.79243,South America
+VEN,Venezuela,1959,14.095871,South America
+VEN,Venezuela,1960,12.894877,South America
+VEN,Venezuela,1961,13.00281,South America
+VEN,Venezuela,1962,13.634249,South America
+VEN,Venezuela,1963,14.300011,South America
+VEN,Venezuela,1964,15.501996,South America
+VEN,Venezuela,1965,15.626375,South America
+VEN,Venezuela,1966,15.383903,South America
+VEN,Venezuela,1967,15.57774,South America
+VEN,Venezuela,1968,16.987415,South America
+VEN,Venezuela,1969,17.592003,South America
+VEN,Venezuela,1970,19.44451,South America
+VEN,Venezuela,1971,18.209164,South America
+VEN,Venezuela,1972,18.179869,South America
+VEN,Venezuela,1973,19.331163,South America
+VEN,Venezuela,1974,22.671999,South America
+VEN,Venezuela,1975,21.306314,South America
+VEN,Venezuela,1976,22.839758,South America
+VEN,Venezuela,1977,23.321024,South America
+VEN,Venezuela,1978,21.663076,South America
+VEN,Venezuela,1979,22.254908,South America
+VEN,Venezuela,1980,19.492306,South America
+VEN,Venezuela,1981,18.939642,South America
+VEN,Venezuela,1982,17.599707,South America
+VEN,Venezuela,1983,17.762857,South America
+VEN,Venezuela,1984,18.163025,South America
+VEN,Venezuela,1985,16.658176,South America
+VEN,Venezuela,1986,14.904936,South America
+VEN,Venezuela,1987,14.518197,South America
+VEN,Venezuela,1988,14.213692,South America
+VEN,Venezuela,1989,13.380918,South America
+VEN,Venezuela,1990,13.782229,South America
+VEN,Venezuela,1991,14.263082,South America
+VEN,Venezuela,1992,14.305857,South America
+VEN,Venezuela,1993,13.359987,South America
+VEN,Venezuela,1994,12.315057,South America
+VEN,Venezuela,1995,12.324745,South America
+VEN,Venezuela,1996,11.986189,South America
+VEN,Venezuela,1997,11.541097,South America
+VEN,Venezuela,1998,10.0934515,South America
+VEN,Venezuela,1999,10.557389,South America
+VEN,Venezuela,2000,12.499258,South America
+VEN,Venezuela,2001,11.6547985,South America
+VEN,Venezuela,2002,10.873657,South America
+VEN,Venezuela,2003,10.620219,South America
+VEN,Venezuela,2004,12.628008,South America
+VEN,Venezuela,2005,15.701362,South America
+VEN,Venezuela,2006,17.796515,South America

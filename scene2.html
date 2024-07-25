@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <title>Data Narrative visualization</title>
+    <script src="js/chart.js"></script>
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Pacifico&display=swap" rel="stylesheet">
+</head>
+
+<body>
+    <div id="content">
+        <p class="large-bold"> Productivity vs. Working Hours:</p>
+        <p class="small-normal">In the previous slide, we mentioned the relationship between working hours and GDP, and we found that working hours and GDP are not positively correlated. It has to do with a lot of things including policy, the structure of the economy, productivity. The scatterpolt of worked hour vs productivity discusses the relationship between productivity and working hours.
+            Below shows a scatter plot illustrating the average annual working hours (x-axis axis, in [hour]) versus the average hourly labour productivity (y-axis axis, in [$/hour])(in this part,the hourly productivity count for money earned).
+        </p>
+        <p class ="red-text">Note: If you want to know detailed information of each country, try to hang over on the point. Also,You can drag the slider below to adjust for different years.</p>
+        <div id="scatterplot-1">
+
+     </div>
+     <div class="slider-container">
+        <input type="range" min="1970" max="2019" value="1970" class="slider" id="yearSlider">
+        <p class="slider-label">Year: <span id="yearLabel">1970</span></p>
+    </div>
+    <p class="small-normal">according to the scatterplot, we can get some information directly:</p>
+    <p class="small-normal">
+    1. <strong>Similarity in Distribution with Hours and GDP per Capita</strong>:The scatterplot's distribution structure closely resembles the relationship between working hours and GDP per capita. Countries with higher productivity generally have shorter working hours, mirroring the trends seen in the GDP per capita data. The reason might be  countries with efficient economic structures and high labor productivity can achieve significant economic output with fewer working hours.</p>
+    <p class="small-normal">2. <strong>Increase in Global Productivity Over Time:</strong>There is a noticeable increase in global productivity as the years progress, indicating overall economic growth and improvements in labor efficiency worldwide. It might cause by Technological advancements, better education, and improved economic policies contribute to this upward trend in productivity.</p>
+    <p class="small-normal">3. <strong>Positive Correlation Between Productivity and GDP:</strong>Although there is a positive correlation between productivity and GDP, high productivity does not always equate to the highest GDP per capita. For instance, while the United States has high productivity, it does not always have the highest GDP per capita compared to some other countries. This highlights that while productivity is a significant factor, other elements such as economic policies, natural resources, and market conditions also play crucial roles in determining a country's GDP per capita.</p>
+    <p class="small-normal">4. <strong>Consistent Distribution Patterns with Hours and GDP per Capita:</strong>Throughout the years from 1970 to 2019, the distribution patterns in the scatterplots of working hours and productivity remain consistent with those of working hours and GDP per capita. Europe and North America are typically positioned in the high productivity, low working hours quadrant, while Asia and Africa are more often found in the low productivity, high working hours quadrant. This consistent distribution reflects long-standing economic structures and development levels in these regions. Europe's and North America's advanced technologies, robust economic policies, and high levels of education contribute to their high productivity. In contrast, many Asian and African countries rely on labor-intensive industries and have less access to advanced technologies, resulting in lower productivity.</p>
+    <p class="small-normal">The analysis of the scatterplots of working hours, productivity, and GDP per capita from 1970 to 2019 reveals several consistent patterns and important insights. Countries with higher productivity generally have shorter working hours, similar to the trends observed in GDP per capita. Over time, global productivity has increased, reflecting overall economic growth and improved labor efficiency due to technological advancements, better education, and more effective economic policies.
+
+        Despite the positive correlation between productivity and GDP per capita, high productivity does not always equate to the highest GDP per capita. This indicates that while productivity is crucial, other factors such as economic policies, natural resources, and market conditions significantly influence a country's economic prosperity.
+        
+        The distribution patterns in the scatterplots consistently show that Europe and North America are in the high productivity, low working hours quadrant, whereas Asia and Africa are in the low productivity, high working hours quadrant. This reflects long-standing economic structures, with developed regions benefiting from advanced technologies and efficient economic systems, while many developing countries still rely on labor-intensive industries.
+        
+        These insights underscore the importance of labor productivity and efficient economic structures in achieving economic growth and high living standards. Policymakers can use this data to develop strategies that enhance labor productivity, optimize working hours, and improve workforce skills. By investing in advanced technologies and education, countries can boost productivity and achieve sustainable economic development, reducing global economic disparities.
+    </p>
+    <a href="scene1.html"><button class="cool-button">Previous Page:Working Hours And GDP per Capita: </button></a>
+            <a href="scene3.html"><button class="cool-button">Next Page:Trends in Labor Productivity per Hour (1950-2019)</button></a>
+    </div>
+    <script>
+        document.addEventListener("DOMContentLoaded", function() {
+            rendersecondchart(1970);
+            const slider = document.getElementById('yearSlider');
+            const yearLabel = document.getElementById('yearLabel');
+
+            slider.addEventListener('input', function() {
+                const year = +this.value;
+                yearLabel.textContent = year;
+                rendersecondchart(year);
+            });
+        });
+    </script>
+</body>
+</html>
